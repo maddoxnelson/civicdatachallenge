@@ -1,0 +1,361 @@
+{"MSA_public_schools":
+[
+  {
+    "Metropolitan Area":"Atlanta-Sandy Springs-Marietta, GA",
+    "Q21: Confidence in Public Schools - No Confidence":2.556,
+    "Q21: Confidence in Public School - Hardly any Confidence":12.305,
+    "Q21: Confidence in Public Schools - Some Confidence":58.37,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":26.767
+  },
+  {
+    "Metropolitan Area":"Austin-Round Rock, TX",
+    "Q21: Confidence in Public Schools - No Confidence":4.205,
+    "Q21: Confidence in Public School - Hardly any Confidence":12.608,
+    "Q21: Confidence in Public Schools - Some Confidence":55.829,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":27.356
+  },
+  {
+    "Metropolitan Area":"Baltimore-Towson, MD",
+    "Q21: Confidence in Public Schools - No Confidence":2.32,
+    "Q21: Confidence in Public School - Hardly any Confidence":7.98,
+    "Q21: Confidence in Public Schools - Some Confidence":59.199,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":30.499
+  },
+  {
+    "Metropolitan Area":"Birmingham-Hoover, AL",
+    "Q21: Confidence in Public Schools - No Confidence":0.694,
+    "Q21: Confidence in Public School - Hardly any Confidence":6.328,
+    "Q21: Confidence in Public Schools - Some Confidence":65.274,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":27.702
+  },
+  {
+    "Metropolitan Area":"Boston-Cambridge-Quincy, MA-NH",
+    "Q21: Confidence in Public Schools - No Confidence":2.129,
+    "Q21: Confidence in Public School - Hardly any Confidence":8.031,
+    "Q21: Confidence in Public Schools - Some Confidence":58.378,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":31.46
+  },
+  {
+    "Metropolitan Area":"Buffalo-Niagara Falls, NY",
+    "Q21: Confidence in Public Schools - No Confidence":0,
+    "Q21: Confidence in Public School - Hardly any Confidence":9.464,
+    "Q21: Confidence in Public Schools - Some Confidence":53.501,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":37.033
+  },
+  {
+    "Metropolitan Area":"Charlotte-Gastonia-Concord, NC-SC",
+    "Q21: Confidence in Public Schools - No Confidence":1.387,
+    "Q21: Confidence in Public School - Hardly any Confidence":11.97,
+    "Q21: Confidence in Public Schools - Some Confidence":60.602,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":26.038
+  },
+  {
+    "Metropolitan Area":"Chicago-Naperville-Joliet, IL-IN-WI",
+    "Q21: Confidence in Public Schools - No Confidence":1.932,
+    "Q21: Confidence in Public School - Hardly any Confidence":10.809,
+    "Q21: Confidence in Public Schools - Some Confidence":60.568,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":26.689
+  },
+  {
+    "Metropolitan Area":"Cincinnati-Middletown, OH-KY-IN",
+    "Q21: Confidence in Public Schools - No Confidence":2.944,
+    "Q21: Confidence in Public School - Hardly any Confidence":10.881,
+    "Q21: Confidence in Public Schools - Some Confidence":64.772,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":21.401
+  },
+  {
+    "Metropolitan Area":"Cleveland-Elyria-Mentor, OH",
+    "Q21: Confidence in Public Schools - No Confidence":2.7,
+    "Q21: Confidence in Public School - Hardly any Confidence":8.283,
+    "Q21: Confidence in Public Schools - Some Confidence":57.11,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":31.905
+  },
+  {
+    "Metropolitan Area":"Columbus, OH",
+    "Q21: Confidence in Public Schools - No Confidence":2.31,
+    "Q21: Confidence in Public School - Hardly any Confidence":7.211,
+    "Q21: Confidence in Public Schools - Some Confidence":58.525,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":31.951
+  },
+  {
+    "Metropolitan Area":"Dallas-Fort Worth-Arlington, TX",
+    "Q21: Confidence in Public Schools - No Confidence":2.415,
+    "Q21: Confidence in Public School - Hardly any Confidence":8.512,
+    "Q21: Confidence in Public Schools - Some Confidence":53.569,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":35.502
+  },
+  {
+    "Metropolitan Area":"Denver-Aurora, CO",
+    "Q21: Confidence in Public Schools - No Confidence":1.476,
+    "Q21: Confidence in Public School - Hardly any Confidence":9.278,
+    "Q21: Confidence in Public Schools - Some Confidence":62.91,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":26.333
+  },
+  {
+    "Metropolitan Area":"Detroit-Warren-Livonia, MI",
+    "Q21: Confidence in Public Schools - No Confidence":2.931,
+    "Q21: Confidence in Public School - Hardly any Confidence":10.834,
+    "Q21: Confidence in Public Schools - Some Confidence":56.925,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":29.308
+  },
+  {
+    "Metropolitan Area":"Hartford-West Hartford-East Hartford, CT",
+    "Q21: Confidence in Public Schools - No Confidence":2.469,
+    "Q21: Confidence in Public School - Hardly any Confidence":3.926,
+    "Q21: Confidence in Public Schools - Some Confidence":53.564,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":40.039
+  },
+  {
+    "Metropolitan Area":"Houston-Baytown-Sugar Land, TX",
+    "Q21: Confidence in Public Schools - No Confidence":2.053,
+    "Q21: Confidence in Public School - Hardly any Confidence":8.119,
+    "Q21: Confidence in Public Schools - Some Confidence":59.199,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":30.627
+  },
+  {
+    "Metropolitan Area":"Indianapolis, IN",
+    "Q21: Confidence in Public Schools - No Confidence":0.807,
+    "Q21: Confidence in Public School - Hardly any Confidence":24.647,
+    "Q21: Confidence in Public Schools - Some Confidence":51.313,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":23.231
+  },
+  {
+    "Metropolitan Area":"Jacksonville, FL",
+    "Q21: Confidence in Public Schools - No Confidence":6.747,
+    "Q21: Confidence in Public School - Hardly any Confidence":11.294,
+    "Q21: Confidence in Public Schools - Some Confidence":58.516,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":23.441
+  },
+  {
+    "Metropolitan Area":"Kansas City, MO-KS",
+    "Q21: Confidence in Public Schools - No Confidence":4.269,
+    "Q21: Confidence in Public School - Hardly any Confidence":12.259,
+    "Q21: Confidence in Public Schools - Some Confidence":55.269,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":28.201
+  },
+  {
+    "Metropolitan Area":"Las Vegas-Paradise, NV",
+    "Q21: Confidence in Public Schools - No Confidence":4.784,
+    "Q21: Confidence in Public School - Hardly any Confidence":17.783,
+    "Q21: Confidence in Public Schools - Some Confidence":51.346,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":26.085
+  },
+  {
+    "Metropolitan Area":"Los Angeles-Long Beach-Santa Ana, CA",
+    "Q21: Confidence in Public Schools - No Confidence":3.507,
+    "Q21: Confidence in Public School - Hardly any Confidence":8.273,
+    "Q21: Confidence in Public Schools - Some Confidence":62.121,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":26.098
+  },
+  {
+    "Metropolitan Area":"Louisville, KY-IN",
+    "Q21: Confidence in Public Schools - No Confidence":1.988,
+    "Q21: Confidence in Public School - Hardly any Confidence":7.068,
+    "Q21: Confidence in Public Schools - Some Confidence":63.63,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":27.311
+  },
+  {
+    "Metropolitan Area":"Memphis, TN-MS-AR",
+    "Q21: Confidence in Public Schools - No Confidence":3.55,
+    "Q21: Confidence in Public School - Hardly any Confidence":14.905,
+    "Q21: Confidence in Public Schools - Some Confidence":57.459,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":24.084
+  },
+  {
+    "Metropolitan Area":"Miami-Fort Lauderdale-Miami Beach, FL",
+    "Q21: Confidence in Public Schools - No Confidence":2.139,
+    "Q21: Confidence in Public School - Hardly any Confidence":12.936,
+    "Q21: Confidence in Public Schools - Some Confidence":61.816,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":23.107
+  },
+  {
+    "Metropolitan Area":"Milwaukee-Waukesha-West Allis, WI",
+    "Q21: Confidence in Public Schools - No Confidence":3.11,
+    "Q21: Confidence in Public School - Hardly any Confidence":10.966,
+    "Q21: Confidence in Public Schools - Some Confidence":60.239,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":25.683
+  },
+  {
+    "Metropolitan Area":"Minneapolis-St Paul-Bloomington, MN-WI",
+    "Q21: Confidence in Public Schools - No Confidence":1.555,
+    "Q21: Confidence in Public School - Hardly any Confidence":8.473,
+    "Q21: Confidence in Public Schools - Some Confidence":56.693,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":33.276
+  },
+  {
+    "Metropolitan Area":"Nashville-Davidson-Murfreesboro, TN",
+    "Q21: Confidence in Public Schools - No Confidence":2.203,
+    "Q21: Confidence in Public School - Hardly any Confidence":9.017,
+    "Q21: Confidence in Public Schools - Some Confidence":55.288,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":33.49
+  },
+  {
+    "Metropolitan Area":"New Orleans-Metairie-Kenner, LA",
+    "Q21: Confidence in Public Schools - No Confidence":1.937,
+    "Q21: Confidence in Public School - Hardly any Confidence":11.444,
+    "Q21: Confidence in Public Schools - Some Confidence":70.547,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":16.07
+  },
+  {
+    "Metropolitan Area":"New York-Northern New Jersey-Long Island, NY-NJ-PA",
+    "Q21: Confidence in Public Schools - No Confidence":3.016,
+    "Q21: Confidence in Public School - Hardly any Confidence":11.459,
+    "Q21: Confidence in Public Schools - Some Confidence":60.118,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":25.405
+  },
+  {
+    "Metropolitan Area":"Oklahoma City, OK",
+    "Q21: Confidence in Public Schools - No Confidence":0.468,
+    "Q21: Confidence in Public School - Hardly any Confidence":10.031,
+    "Q21: Confidence in Public Schools - Some Confidence":58.405,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":31.094
+  },
+  {
+    "Metropolitan Area":"Orlando, FL",
+    "Q21: Confidence in Public Schools - No Confidence":3.599,
+    "Q21: Confidence in Public School - Hardly any Confidence":5.487,
+    "Q21: Confidence in Public Schools - Some Confidence":66.839,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":24.073
+  },
+  {
+    "Metropolitan Area":"Philadelphia-Camden-Wilmington, PA-NJ-DE",
+    "Q21: Confidence in Public Schools - No Confidence":3.242,
+    "Q21: Confidence in Public School - Hardly any Confidence":8.89,
+    "Q21: Confidence in Public Schools - Some Confidence":61.854,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":26.012
+  },
+  {
+    "Metropolitan Area":"Phoenix-Mesa-Scottsdale, AZ",
+    "Q21: Confidence in Public Schools - No Confidence":1.163,
+    "Q21: Confidence in Public School - Hardly any Confidence":8.292,
+    "Q21: Confidence in Public Schools - Some Confidence":61.554,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":28.989
+  },
+  {
+    "Metropolitan Area":"Pittsburgh, PA",
+    "Q21: Confidence in Public Schools - No Confidence":4.2,
+    "Q21: Confidence in Public School - Hardly any Confidence":7.727,
+    "Q21: Confidence in Public Schools - Some Confidence":60.551,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":27.52
+  },
+  {
+    "Metropolitan Area":"Portland-Vancouver-Beaverton, OR-WA",
+    "Q21: Confidence in Public Schools - No Confidence":2.74,
+    "Q21: Confidence in Public School - Hardly any Confidence":9.459,
+    "Q21: Confidence in Public Schools - Some Confidence":55.362,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":32.437
+  },
+  {
+    "Metropolitan Area":"Providence-Fall River-Warwick, RI-MA",
+    "Q21: Confidence in Public Schools - No Confidence":3.273,
+    "Q21: Confidence in Public School - Hardly any Confidence":7.14,
+    "Q21: Confidence in Public Schools - Some Confidence":60.041,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":29.544
+  },
+  {
+    "Metropolitan Area":"Raleigh-Cary, NC",
+    "Q21: Confidence in Public Schools - No Confidence":0.998,
+    "Q21: Confidence in Public School - Hardly any Confidence":6.119,
+    "Q21: Confidence in Public Schools - Some Confidence":68.982,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":23.899
+  },
+  {
+    "Metropolitan Area":"Richmond, VA",
+    "Q21: Confidence in Public Schools - No Confidence":0,
+    "Q21: Confidence in Public School - Hardly any Confidence":3.368,
+    "Q21: Confidence in Public Schools - Some Confidence":64.547,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":32.083
+  },
+  {
+    "Metropolitan Area":"Riverside-San Bernardino-Ontario, CA",
+    "Q21: Confidence in Public Schools - No Confidence":7.313,
+    "Q21: Confidence in Public School - Hardly any Confidence":14.142,
+    "Q21: Confidence in Public Schools - Some Confidence":58.591,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":19.951
+  },
+  {
+    "Metropolitan Area":"Rochester, NY",
+    "Q21: Confidence in Public Schools - No Confidence":0,
+    "Q21: Confidence in Public School - Hardly any Confidence":0,
+    "Q21: Confidence in Public Schools - Some Confidence":0,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":0
+  },
+  {
+    "Metropolitan Area":"Sacramento--Arden-Arcade-Roseville, CA",
+    "Q21: Confidence in Public Schools - No Confidence":5.173,
+    "Q21: Confidence in Public School - Hardly any Confidence":8.247,
+    "Q21: Confidence in Public Schools - Some Confidence":65.542,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":21.036
+  },
+  {
+    "Metropolitan Area":"Salt Lake City, UT",
+    "Q21: Confidence in Public Schools - No Confidence":1.281,
+    "Q21: Confidence in Public School - Hardly any Confidence":6.079,
+    "Q21: Confidence in Public Schools - Some Confidence":55.602,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":37.036
+  },
+  {
+    "Metropolitan Area":"San Antonio, TX",
+    "Q21: Confidence in Public Schools - No Confidence":0.945,
+    "Q21: Confidence in Public School - Hardly any Confidence":10.049,
+    "Q21: Confidence in Public Schools - Some Confidence":54.685,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":34.319
+  },
+  {
+    "Metropolitan Area":"San Diego-Carlsbad-San Marcos, CA",
+    "Q21: Confidence in Public Schools - No Confidence":7.048,
+    "Q21: Confidence in Public School - Hardly any Confidence":11.592,
+    "Q21: Confidence in Public Schools - Some Confidence":52.282,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":29.076
+  },
+  {
+    "Metropolitan Area":"San Francisco-Oakland-Fremont, CA",
+    "Q21: Confidence in Public Schools - No Confidence":2.537,
+    "Q21: Confidence in Public School - Hardly any Confidence":8.689,
+    "Q21: Confidence in Public Schools - Some Confidence":61.818,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":26.954
+  },
+  {
+    "Metropolitan Area":"San Jose-Sunnyvale-Santa Clara, CA",
+    "Q21: Confidence in Public Schools - No Confidence":1.753,
+    "Q21: Confidence in Public School - Hardly any Confidence":8.609,
+    "Q21: Confidence in Public Schools - Some Confidence":64.724,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":24.912
+  },
+  {
+    "Metropolitan Area":"Seattle-Tacoma-Bellevue, WA",
+    "Q21: Confidence in Public Schools - No Confidence":1.916,
+    "Q21: Confidence in Public School - Hardly any Confidence":8.013,
+    "Q21: Confidence in Public Schools - Some Confidence":60.71,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":29.36
+  },
+  {
+    "Metropolitan Area":"St. Louis, MO-IL",
+    "Q21: Confidence in Public Schools - No Confidence":2.453,
+    "Q21: Confidence in Public School - Hardly any Confidence":10.737,
+    "Q21: Confidence in Public Schools - Some Confidence":52.967,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":33.842
+  },
+  {
+    "Metropolitan Area":"Tampa-St. Petersburg-Clearwater, FL",
+    "Q21: Confidence in Public Schools - No Confidence":4.694,
+    "Q21: Confidence in Public School - Hardly any Confidence":17.157,
+    "Q21: Confidence in Public Schools - Some Confidence":59.866,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":18.281
+  },
+  {
+    "Metropolitan Area":"Virginia Beach-Norfolk-Newport News, VA-NC",
+    "Q21: Confidence in Public Schools - No Confidence":0.643,
+    "Q21: Confidence in Public School - Hardly any Confidence":13.594,
+    "Q21: Confidence in Public Schools - Some Confidence":57.993,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":27.768
+  },
+  {
+    "Metropolitan Area":"Washington-Arlington-Alexandria, DC-VA-MD-WV",
+    "Q21: Confidence in Public Schools - No Confidence":1.413,
+    "Q21: Confidence in Public School - Hardly any Confidence":5.824,
+    "Q21: Confidence in Public Schools - Some Confidence":56.521,
+    "Q21: Confidence in Public Schools - A great Deal of Confidence":36.24
+  }
+]
+}

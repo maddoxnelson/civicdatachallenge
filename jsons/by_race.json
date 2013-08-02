@@ -1,0 +1,259 @@
+{"MSA_race":
+[
+  {
+    "Metropolitan Area":"Atlanta-Sandy Springs-Marietta, GA",
+    "volunteering_by_race":[28,22.9573538672534,15.3303773292849],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Austin-Round Rock, TX",
+    "volunteering_by_race":[25.8],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Baltimore-Towson, MD",
+    "volunteering_by_race":[34.7,18.3689878035779,17.5731124660755],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Birmingham-Hoover, AL",
+    "volunteering_by_race":[28,25.3823621746155],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Boston-Cambridge-Quincy, MA-NH",
+    "volunteering_by_race":[28,23.3555996755272,16.8838736867647],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Buffalo-Niagara Falls, NY",
+    "volunteering_by_race":[27.6],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Charlotte-Gastonia-Concord, NC-SC",
+    "volunteering_by_race":[27.6,26.4408635195253],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Chicago-Naperville-Joliet, IL-IN-WI",
+    "volunteering_by_race":[27,17.5352042228922,19.4786387063472],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Cincinnati-Middletown, OH-KY-IN",
+    "volunteering_by_race":[31.3,22.0679144949924],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Cleveland-Elyria-Mentor, OH",
+    "volunteering_by_race":[28.5,16.4352675365189],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Columbus, OH",
+    "volunteering_by_race":[29.6,23.314407764857],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Dallas-Fort Worth-Arlington, TX",
+    "volunteering_by_race":[28.6,23.3685925718427,29.7366001855749],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Denver-Aurora, CO",
+    "volunteering_by_race":[30.8,17.89366692206,17.4204125321359],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Detroit-Warren-Livonia, MI",
+    "volunteering_by_race":[27.4,18.5119457968574,22.7373810443909],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Hartford-West Hartford-East Hartford, CT",
+    "volunteering_by_race":[34.8,24.3763018482357],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Houston-Baytown-Sugar Land, TX",
+    "volunteering_by_race":[23.3,22.3213018829468,16.1361599227025],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Indianapolis, IN",
+    "volunteering_by_race":[27.4,26.3974604278066],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Jacksonville, FL",
+    "volunteering_by_race":[29,17.5752928264136],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Kansas City, MO-KS",
+    "volunteering_by_race":[32.1,17.8241169377325],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Las Vegas-Paradise, NV",
+    "volunteering_by_race":[19.3,16.5043720520774,16.7198267765725],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Los Angeles-Long Beach-Santa Ana, CA",
+    "volunteering_by_race":[21.7,22.8361376462691,18.4713123611957],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Louisville, KY-IN",
+    "volunteering_by_race":[25.2,29.5648967336794],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Memphis, TN-MS-AR",
+    "volunteering_by_race":[27.4,20.4067297184853],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Miami-Fort Lauderdale-Miami Beach, FL",
+    "volunteering_by_race":[15.2,16.6071212113639],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Milwaukee-Waukesha-West Allis, WI",
+    "volunteering_by_race":[35.1,21.6675457665461],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Minneapolis-St. Paul-Bloomington, MN-WI",
+    "volunteering_by_race":[39,19.0835076383919,17.7209852026048],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Nashville-Davidson-Murfreesboro, TN",
+    "volunteering_by_race":[28,33.7704487937114],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"New Orleans-Metairie-Kenner, LA",
+    "volunteering_by_race":[26.7,17.6579843946438],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"New York-Northern New Jersey-Long Island, NY-NJ-PA",
+    "volunteering_by_race":[19.5,13.1531225337717,12.3987992154106],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Oklahoma City, OK",
+    "volunteering_by_race":[33.3,24.2042783963],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Orlando, FL",
+    "volunteering_by_race":[24.1,20.9190294893626],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Philadelphia-Camden-Wilmington, PA-NJ-DE",
+    "volunteering_by_race":[27.8,18.2855352328952,18.533409961679],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Phoenix-Mesa-Scottsdale, AZ",
+    "volunteering_by_race":[26],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Pittsburgh, PA",
+    "volunteering_by_race":[28.4],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Portland-Vancouver-Beaverton, OR-WA",
+    "volunteering_by_race":[37.1,23.5021449252909],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Providence-Fall River-Warwick, RI-MA",
+    "volunteering_by_race":[25.3,19.1949200073157,21.0412809515395],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Raleigh-Cary, NC",
+    "volunteering_by_race":[21.5,25.5125840162851],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Richmond, VA",
+    "volunteering_by_race":[24.7,15.4649339085958],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Riverside-San Bernardino-Ontario, CA",
+    "volunteering_by_race":[20.8,14.8626084832462,9.5311872250918],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Rochester, NY",
+    "volunteering_by_race":[35.6],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Sacramento--Arden-Arcade-Roseville, CA",
+    "volunteering_by_race":[26.2,27.916517546884,20.4278553719021],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Salt Lake City, UT",
+    "volunteering_by_race":[34.6],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"San Antonio, TX",
+    "volunteering_by_race":[22.8],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"San Diego-Carlsbad-San Marcos, CA",
+    "volunteering_by_race":[26.7,16.3399834877335],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"San Francisco-Oakland-Fremont, CA",
+    "volunteering_by_race":[31.9,25.4688396367041,27.7878317426878],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"San Jose-Sunnyvale-Santa Clara, CA",
+    "volunteering_by_race":[30,31.3078078252694],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Seattle-Tacoma-Bellevue, WA",
+    "volunteering_by_race":[35.5,29.3812950912838,28.4193215612296],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"St. Louis, MO-IL",
+    "volunteering_by_race":[33.7,20.9681370312297],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Tampa-St. Petersburg-Clearwater, FL",
+    "volunteering_by_race":[24.8,22.8006024198088],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Virginia Beach-Norfolk-Newport News, VA-NC",
+    "volunteering_by_race":[31.7,19.7792030923702],
+    "race_labels":["white","black","asian"]
+  },
+  {
+    "Metropolitan Area":"Washington-Arlington-Alexandria, DC-VA-MD-WV",
+    "volunteering_by_race":[36.6,24.7942005998008,20.4721041969646],
+    "race_labels":["white","black","asian"]
+  }
+]
+}

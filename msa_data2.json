@@ -1,0 +1,32 @@
+{ "MSA_data":
+	[
+		{
+			"id":"1",
+			"MSA name":"Rapid City, SD",
+			"gender":"female",
+			"data1":"45%",
+			"data2":"55%"		
+		},
+		{
+			"id":"2",
+			"MSA name":"Sioux Falls, SD",
+			"gender":"male",
+			"data1":"30%",
+			"data2":"70%"		
+		},
+		{
+			"id":"3",
+			"MSA name":"Minneapolis-St. Paul-Bloomington, MN-WI",
+			"gender":"female",
+			"data1":"20%",
+			"data2":"80%"		
+		},
+		{
+			"id":"4",
+			"MSA name":"Casper, WY",
+			"gender":"male",
+			"data1":"10%",
+			"data2":"90%"		
+		}
+	]
+}

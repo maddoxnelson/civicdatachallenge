@@ -1,0 +1,514 @@
+{"MSA_where":
+[
+  {
+    "Metropolitan Area":"Atlanta-Sandy Springs-Marietta, GA",
+    "Civic, political, professional or international":3.74,
+    "Educational or youth service":29.99,
+    "Hospital or other health":6.96,
+    "Religious":36.67,
+    "Social or community service":14.32,
+    "Sport, hobby, cultural or arts":1.96,
+    "Other":6.31
+  },
+  {
+    "Metropolitan Area":"Austin-Round Rock, TX",
+    "Civic, political, professional or international":5.13,
+    "Educational or youth service":30.91,
+    "Hospital or other health":8.8,
+    "Religious":21.31,
+    "Social or community service":22.51,
+    "Sport, hobby, cultural or arts":2.97,
+    "Other":8.34
+  },
+  {
+    "Metropolitan Area":"Baltimore-Towson, MD",
+    "Civic, political, professional or international":7.55,
+    "Educational or youth service":27.71,
+    "Hospital or other health":8.85,
+    "Religious":31.77,
+    "Social or community service":12.12,
+    "Sport, hobby, cultural or arts":3.27,
+    "Other":8.7
+  },
+  {
+    "Metropolitan Area":"Birmingham-Hoover, AL",
+    "Civic, political, professional or international":7.55,
+    "Educational or youth service":22.13,
+    "Hospital or other health":7.93,
+    "Religious":48.92,
+    "Social or community service":9.16,
+    "Sport, hobby, cultural or arts":2.39,
+    "Other":1.88
+  },
+  {
+    "Metropolitan Area":"Boston-Cambridge-Quincy, MA-NH",
+    "Civic, political, professional or international":6.79,
+    "Educational or youth service":32.73,
+    "Hospital or other health":9.23,
+    "Religious":19,
+    "Social or community service":18.38,
+    "Sport, hobby, cultural or arts":4.63,
+    "Other":9.21
+  },
+  {
+    "Metropolitan Area":"Buffalo-Niagara Falls, NY",
+    "Civic, political, professional or international":5.39,
+    "Educational or youth service":23.17,
+    "Hospital or other health":14.62,
+    "Religious":34.51,
+    "Social or community service":9,
+    "Sport, hobby, cultural or arts":6.05,
+    "Other":7.23
+  },
+  {
+    "Metropolitan Area":"Charlotte-Gastonia-Concord, NC-SC",
+    "Civic, political, professional or international":3.61,
+    "Educational or youth service":24.04,
+    "Hospital or other health":6.77,
+    "Religious":40.49,
+    "Social or community service":16.89,
+    "Sport, hobby, cultural or arts":1.81,
+    "Other":6.35
+  },
+  {
+    "Metropolitan Area":"Chicago-Naperville-Joliet, IL-IN-WI",
+    "Civic, political, professional or international":6.63,
+    "Educational or youth service":27.37,
+    "Hospital or other health":7.99,
+    "Religious":34.74,
+    "Social or community service":12.58,
+    "Sport, hobby, cultural or arts":4.25,
+    "Other":6.4
+  },
+  {
+    "Metropolitan Area":"Cincinnati-Middletown, OH-KY-IN",
+    "Civic, political, professional or international":3.43,
+    "Educational or youth service":29.17,
+    "Hospital or other health":8.37,
+    "Religious":39.53,
+    "Social or community service":10.3,
+    "Sport, hobby, cultural or arts":2.33,
+    "Other":6.84
+  },
+  {
+    "Metropolitan Area":"Cleveland-Elyria-Mentor, OH",
+    "Civic, political, professional or international":7.09,
+    "Educational or youth service":27.98,
+    "Hospital or other health":9.17,
+    "Religious":36.09,
+    "Social or community service":11.75,
+    "Sport, hobby, cultural or arts":2.64,
+    "Other":5.24
+  },
+  {
+    "Metropolitan Area":"Columbus, OH",
+    "Civic, political, professional or international":6.38,
+    "Educational or youth service":31.35,
+    "Hospital or other health":9.17,
+    "Religious":28.99,
+    "Social or community service":15.74,
+    "Sport, hobby, cultural or arts":2.17,
+    "Other":6.17
+  },
+  {
+    "Metropolitan Area":"Dallas-Fort Worth-Arlington, TX",
+    "Civic, political, professional or international":5.27,
+    "Educational or youth service":27.05,
+    "Hospital or other health":6.24,
+    "Religious":40.22,
+    "Social or community service":13.05,
+    "Sport, hobby, cultural or arts":3.41,
+    "Other":4.72
+  },
+  {
+    "Metropolitan Area":"Denver-Aurora, CO",
+    "Civic, political, professional or international":6.41,
+    "Educational or youth service":28.68,
+    "Hospital or other health":9.56,
+    "Religious":26.31,
+    "Social or community service":16.62,
+    "Sport, hobby, cultural or arts":4.34,
+    "Other":8.05
+  },
+  {
+    "Metropolitan Area":"Detroit-Warren-Livonia, MI",
+    "Civic, political, professional or international":4.67,
+    "Educational or youth service":28.91,
+    "Hospital or other health":9.46,
+    "Religious":32.3,
+    "Social or community service":15.51,
+    "Sport, hobby, cultural or arts":2.21,
+    "Other":6.9
+  },
+  {
+    "Metropolitan Area":"Hartford-West Hartford-East Hartford, CT",
+    "Civic, political, professional or international":5.7,
+    "Educational or youth service":28.33,
+    "Hospital or other health":6.85,
+    "Religious":29.49,
+    "Social or community service":18.62,
+    "Sport, hobby, cultural or arts":5.8,
+    "Other":5.17
+  },
+  {
+    "Metropolitan Area":"Houston-Baytown-Sugar Land, TX",
+    "Civic, political, professional or international":5.09,
+    "Educational or youth service":25.2,
+    "Hospital or other health":6.37,
+    "Religious":40.54,
+    "Social or community service":11.29,
+    "Sport, hobby, cultural or arts":3.02,
+    "Other":8.45
+  },
+  {
+    "Metropolitan Area":"Indianapolis, IN",
+    "Civic, political, professional or international":5.39,
+    "Educational or youth service":27.54,
+    "Hospital or other health":12.4,
+    "Religious":32.99,
+    "Social or community service":13.82,
+    "Sport, hobby, cultural or arts":3.66,
+    "Other":4.17
+  },
+  {
+    "Metropolitan Area":"Jacksonville, FL",
+    "Civic, political, professional or international":5.35,
+    "Educational or youth service":21.72,
+    "Hospital or other health":11.65,
+    "Religious":34.69,
+    "Social or community service":10.87,
+    "Sport, hobby, cultural or arts":3.74,
+    "Other":11.95
+  },
+  {
+    "Metropolitan Area":"Kansas City, MO-KS",
+    "Civic, political, professional or international":3.71,
+    "Educational or youth service":25.45,
+    "Hospital or other health":10.43,
+    "Religious":35.46,
+    "Social or community service":15.01,
+    "Sport, hobby, cultural or arts":1.88,
+    "Other":8.02
+  },
+  {
+    "Metropolitan Area":"Las Vegas-Paradise, NV",
+    "Civic, political, professional or international":4.46,
+    "Educational or youth service":25.09,
+    "Hospital or other health":9.05,
+    "Religious":35.77,
+    "Social or community service":13.28,
+    "Sport, hobby, cultural or arts":4.44,
+    "Other":7.87
+  },
+  {
+    "Metropolitan Area":"Los Angeles-Long Beach-Santa Ana, CA",
+    "Civic, political, professional or international":4.61,
+    "Educational or youth service":34.04,
+    "Hospital or other health":7.15,
+    "Religious":31.2,
+    "Social or community service":11.34,
+    "Sport, hobby, cultural or arts":4.45,
+    "Other":7.18
+  },
+  {
+    "Metropolitan Area":"Louisville, KY-IN",
+    "Civic, political, professional or international":4.41,
+    "Educational or youth service":29.11,
+    "Hospital or other health":8.96,
+    "Religious":33.31,
+    "Social or community service":15.69,
+    "Sport, hobby, cultural or arts":3.97,
+    "Other":4.51
+  },
+  {
+    "Metropolitan Area":"Memphis, TN-MS-AR",
+    "Civic, political, professional or international":2.4,
+    "Educational or youth service":26.22,
+    "Hospital or other health":9.62,
+    "Religious":45.31,
+    "Social or community service":10.06,
+    "Sport, hobby, cultural or arts":1.46,
+    "Other":4.89
+  },
+  {
+    "Metropolitan Area":"Miami-Fort Lauderdale-Miami Beach, FL",
+    "Civic, political, professional or international":4.69,
+    "Educational or youth service":24.93,
+    "Hospital or other health":10.18,
+    "Religious":36.97,
+    "Social or community service":12.8,
+    "Sport, hobby, cultural or arts":3.82,
+    "Other":6.57
+  },
+  {
+    "Metropolitan Area":"Milwaukee-Waukesha-West Allis, WI",
+    "Civic, political, professional or international":5.58,
+    "Educational or youth service":28.17,
+    "Hospital or other health":10.18,
+    "Religious":35.86,
+    "Social or community service":12,
+    "Sport, hobby, cultural or arts":2.49,
+    "Other":5.69
+  },
+  {
+    "Metropolitan Area":"Minneapolis-St. Paul-Bloomington, MN-WI",
+    "Civic, political, professional or international":5.75,
+    "Educational or youth service":25.11,
+    "Hospital or other health":6.73,
+    "Religious":34.96,
+    "Social or community service":18.64,
+    "Sport, hobby, cultural or arts":3.19,
+    "Other":5.58
+  },
+  {
+    "Metropolitan Area":"Nashville-Davidson-Murfreesboro, TN",
+    "Civic, political, professional or international":3.8,
+    "Educational or youth service":18.37,
+    "Hospital or other health":13.16,
+    "Religious":44.38,
+    "Social or community service":12.97,
+    "Sport, hobby, cultural or arts":2.91,
+    "Other":4.37
+  },
+  {
+    "Metropolitan Area":"New Orleans-Metairie-Kenner, LA",
+    "Civic, political, professional or international":1.99,
+    "Educational or youth service":39.9,
+    "Hospital or other health":3.51,
+    "Religious":35.85,
+    "Social or community service":9.65,
+    "Sport, hobby, cultural or arts":2.01,
+    "Other":7.04
+  },
+  {
+    "Metropolitan Area":"New York-Northern New Jersey-Long Island, NY-NJ-PA",
+    "Civic, political, professional or international":6.02,
+    "Educational or youth service":28.74,
+    "Hospital or other health":10.42,
+    "Religious":28.28,
+    "Social or community service":15.19,
+    "Sport, hobby, cultural or arts":3.81,
+    "Other":7.5
+  },
+  {
+    "Metropolitan Area":"Oklahoma City, OK",
+    "Civic, political, professional or international":1.93,
+    "Educational or youth service":26.07,
+    "Hospital or other health":5.4,
+    "Religious":40.93,
+    "Social or community service":14.45,
+    "Sport, hobby, cultural or arts":3.96,
+    "Other":7.23
+  },
+  {
+    "Metropolitan Area":"Orlando, FL",
+    "Civic, political, professional or international":4.1,
+    "Educational or youth service":25.71,
+    "Hospital or other health":10.51,
+    "Religious":41.93,
+    "Social or community service":9.23,
+    "Sport, hobby, cultural or arts":1.79,
+    "Other":6.7
+  },
+  {
+    "Metropolitan Area":"Philadelphia-Camden-Wilmington, PA-NJ-DE",
+    "Civic, political, professional or international":6.08,
+    "Educational or youth service":31.73,
+    "Hospital or other health":8.86,
+    "Religious":30.42,
+    "Social or community service":12.54,
+    "Sport, hobby, cultural or arts":4.43,
+    "Other":5.9
+  },
+  {
+    "Metropolitan Area":"Phoenix-Mesa-Scottsdale, AZ",
+    "Civic, political, professional or international":4.49,
+    "Educational or youth service":31.11,
+    "Hospital or other health":7.6,
+    "Religious":33.47,
+    "Social or community service":12.51,
+    "Sport, hobby, cultural or arts":3.14,
+    "Other":7.64
+  },
+  {
+    "Metropolitan Area":"Pittsburgh, PA",
+    "Civic, political, professional or international":6.12,
+    "Educational or youth service":25.12,
+    "Hospital or other health":7.17,
+    "Religious":37.41,
+    "Social or community service":13.93,
+    "Sport, hobby, cultural or arts":2.58,
+    "Other":7.64
+  },
+  {
+    "Metropolitan Area":"Portland-Vancouver-Beaverton, OR-WA",
+    "Civic, political, professional or international":6.52,
+    "Educational or youth service":29.32,
+    "Hospital or other health":7.11,
+    "Religious":22.57,
+    "Social or community service":17.16,
+    "Sport, hobby, cultural or arts":5.03,
+    "Other":12.26
+  },
+  {
+    "Metropolitan Area":"Providence-Fall River-Warwick, RI-MA",
+    "Civic, political, professional or international":5.35,
+    "Educational or youth service":28.3,
+    "Hospital or other health":10.67,
+    "Religious":27.54,
+    "Social or community service":13.86,
+    "Sport, hobby, cultural or arts":6.14,
+    "Other":8.1
+  },
+  {
+    "Metropolitan Area":"Raleigh-Cary, NC",
+    "Civic, political, professional or international":3.85,
+    "Educational or youth service":17.78,
+    "Hospital or other health":6.47,
+    "Religious":46.75,
+    "Social or community service":13.53,
+    "Sport, hobby, cultural or arts":1.37,
+    "Other":10.21
+  },
+  {
+    "Metropolitan Area":"Richmond, VA",
+    "Civic, political, professional or international":3.8,
+    "Educational or youth service":31.22,
+    "Hospital or other health":8.41,
+    "Religious":30.56,
+    "Social or community service":9.47,
+    "Sport, hobby, cultural or arts":4.35,
+    "Other":12.15
+  },
+  {
+    "Metropolitan Area":"Riverside-San Bernardino-Ontario, CA",
+    "Civic, political, professional or international":3.86,
+    "Educational or youth service":33.31,
+    "Hospital or other health":7.78,
+    "Religious":35.65,
+    "Social or community service":13.8,
+    "Sport, hobby, cultural or arts":1.91,
+    "Other":3.65
+  },
+  {
+    "Metropolitan Area":"Rochester, NY",
+    "Civic, political, professional or international":6.04,
+    "Educational or youth service":30.43,
+    "Hospital or other health":10.47,
+    "Religious":27.84,
+    "Social or community service":13.54,
+    "Sport, hobby, cultural or arts":4.3,
+    "Other":7.33
+  },
+  {
+    "Metropolitan Area":"Sacramento--Arden-Arcade-Roseville, CA",
+    "Civic, political, professional or international":4.06,
+    "Educational or youth service":33.42,
+    "Hospital or other health":7.99,
+    "Religious":24.2,
+    "Social or community service":12.87,
+    "Sport, hobby, cultural or arts":3.24,
+    "Other":14.18
+  },
+  {
+    "Metropolitan Area":"Salt Lake City, UT",
+    "Civic, political, professional or international":3.1,
+    "Educational or youth service":19.74,
+    "Hospital or other health":5.45,
+    "Religious":51.04,
+    "Social or community service":11.8,
+    "Sport, hobby, cultural or arts":3.77,
+    "Other":5.07
+  },
+  {
+    "Metropolitan Area":"San Antonio, TX",
+    "Civic, political, professional or international":5.16,
+    "Educational or youth service":24.49,
+    "Hospital or other health":4.76,
+    "Religious":37.47,
+    "Social or community service":13.98,
+    "Sport, hobby, cultural or arts":4.37,
+    "Other":9.73
+  },
+  {
+    "Metropolitan Area":"San Diego-Carlsbad-San Marcos, CA",
+    "Civic, political, professional or international":6.85,
+    "Educational or youth service":25.01,
+    "Hospital or other health":9,
+    "Religious":29.58,
+    "Social or community service":17.14,
+    "Sport, hobby, cultural or arts":4.66,
+    "Other":7.74
+  },
+  {
+    "Metropolitan Area":"San Francisco-Oakland-Fremont, CA",
+    "Civic, political, professional or international":5.97,
+    "Educational or youth service":33.16,
+    "Hospital or other health":7.93,
+    "Religious":23.11,
+    "Social or community service":17.78,
+    "Sport, hobby, cultural or arts":3.55,
+    "Other":8.46
+  },
+  {
+    "Metropolitan Area":"San Jose-Sunnyvale-Santa Clara, CA",
+    "Civic, political, professional or international":2.51,
+    "Educational or youth service":35.8,
+    "Hospital or other health":8.04,
+    "Religious":24.93,
+    "Social or community service":17.04,
+    "Sport, hobby, cultural or arts":4.63,
+    "Other":7.01
+  },
+  {
+    "Metropolitan Area":"Seattle-Tacoma-Bellevue, WA",
+    "Civic, political, professional or international":4.75,
+    "Educational or youth service":29.14,
+    "Hospital or other health":9.06,
+    "Religious":27,
+    "Social or community service":16.13,
+    "Sport, hobby, cultural or arts":5.25,
+    "Other":8.64
+  },
+  {
+    "Metropolitan Area":"St. Louis, MO-IL",
+    "Civic, political, professional or international":7.61,
+    "Educational or youth service":25.06,
+    "Hospital or other health":7.49,
+    "Religious":38.45,
+    "Social or community service":13.82,
+    "Sport, hobby, cultural or arts":1.77,
+    "Other":5.77
+  },
+  {
+    "Metropolitan Area":"Tampa-St. Petersburg-Clearwater, FL",
+    "Civic, political, professional or international":5.72,
+    "Educational or youth service":25.55,
+    "Hospital or other health":11.62,
+    "Religious":33.97,
+    "Social or community service":14.28,
+    "Sport, hobby, cultural or arts":3.3,
+    "Other":5.53
+  },
+  {
+    "Metropolitan Area":"Virginia Beach-Norfolk-Newport News, VA-NC",
+    "Civic, political, professional or international":3.76,
+    "Educational or youth service":23.19,
+    "Hospital or other health":11.32,
+    "Religious":42.06,
+    "Social or community service":10.87,
+    "Sport, hobby, cultural or arts":2.17,
+    "Other":6.6
+  },
+  {
+    "Metropolitan Area":"Washington-Arlington-Alexandria, DC-VA-MD-WV",
+    "Civic, political, professional or international":6.18,
+    "Educational or youth service":29.76,
+    "Hospital or other health":5.52,
+    "Religious":32.92,
+    "Social or community service":14.28,
+    "Sport, hobby, cultural or arts":2.64,
+    "Other":8.65
+  }
+]
+}

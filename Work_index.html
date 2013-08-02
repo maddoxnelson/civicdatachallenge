@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Civic Health Web project</title>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <link href="https://developers.google.com/maps/documentation/javascript/examples/default.css" rel="stylesheet">
+    
+    <script src="jquery.js"></script>
+    <script src="various_scripts.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+    <!--<script type="text/javascript" src="Statefusiontips.js"></script>-->
+    <script type="text/javascript">
+	//global variables
+	var map=null;
+	var geocoder = null;
+	var statesLayer = null;
+	var countiesLayer = null;
+
+	//Initialize map and layers
+	
+	function initialize() {
+		geocoder = new google.maps.Geocoder();
+		
+	    var mapOptions = {
+	        zoom: 4,
+		    center: new google.maps.LatLng(35.41719242517469, -95.3651930625),
+		    mapTypeId: google.maps.MapTypeId.ROADMAP
+		};
+	  
+	    var map = new google.maps.Map(document.getElementById('map_canvas'), mapOptions);
+	  
+	    var statesLayer = new google.maps.FusionTablesLayer({
+		    query: {
+		        select: "geometry",
+			    from: "1SJaVcwWvGAXJ9zi0ha1379Qu7kW4s-U5VnhfPrc"
+		    },
+		    map: map,
+		    styleId: 8,
+		    templateId: 16,
+		    //hide info windows for states, since we are just using states as vehicle to select counties to click on
+		    //could be turned off, but then state popup shows every time you click on a country
+		    suppressInfoWindows: true
+		});
+		  
+		  /*
+		  statesLayer.enableMapTips({
+			  select: "'name'",
+			  from: 655491,
+			  geometryColumn: "'geometry'",
+			  suppressMapTips: false,
+			  delay:0,
+			  tolerance:1
+		  });
+		  */
+		  	  
+	    var countiesLayer = new google.maps.FusionTablesLayer({
+		    query: {
+		        select: "Location",
+			    from: "1ACP4-rrdn1c9W9f81rIQ8KpjOBuvthvc2j7njyU"
+		    },
+		    map: map,
+		    styleId: 3,
+		    templateId: 3
+		});
+		countiesLayer.setMap(map);
+              google.maps.event.addListener(statesLayer, 'click', findState);
+              google.maps.event.addListener(countiesLayer, 'click', retrieve_info);
+		
+		//Hide countiesLayer onload	  
+		
+        //If the map is at a certain zoom level, only show one layer on the page
+        google.maps.event.addListener(map, 'zoom_changed', function() {
+        	zoomLevel = map.getZoom();
+            
+			
+            if (zoomLevel >= 6) { 
+                countiesLayer.setMap(map); 
+                //   statesLayer.setMap(null); 
+            } else if (zoomLevel >= 6 && zoomLevel < 12) { 
+                countiesLayer.setMap(map);
+                //     statesLayer.setMap(null);
+            } else if (zoomLevel <= 4) {
+          	    countiesLayer.setMap(null);
+          	    statesLayer.setMap(map);
+            }     
+        });     
+        //moved this function inside initialize so we can access variables inside it
+		
+		function retrieve_info(address){
+			
+			var row = address.row;
+		for (var x in row) {
+				  if (row.hasOwnProperty('CBSA Name')){
+					  myHtml = row['CBSA Name'].value;
+					  document.getElementById('info').innerHTML=myHtml;
+				  }
+		}
+			slide_div();
+	        //Get a click to return a state name as myHtml
+			var addressStr=myHtml;
+			
+          if (!address && (addressStr != '')) 
+             address = "State of "+addressStr;
+	  else 
+             address = addressStr;
+			
+		}
+		
+	    function findState(address) {
+				 countiesLayer.setMap(map);
+				
+			
+		var row = address.row;
+		for (var x in row) {
+				  if (row.hasOwnProperty('name')){
+					  myHtml = row['name'].value;
+				  }
+			  }
+	        //Get a click to return a state name as myHtml
+			var addressStr=myHtml;
+			
+          if (!address && (addressStr != '')) 
+             address = "State of "+addressStr;
+	  else 
+             address = addressStr;
+          if ((address != '') && (address != 'Alaska')  && geocoder) {
+           geocoder.geocode( { 'address': address}, function(results, status) {
+           if (status == google.maps.GeocoderStatus.OK) {
+             if (status != google.maps.GeocoderStatus.ZERO_RESULTS) {
+               if (results && results[0]
+	           && results[0].geometry && results[0].geometry.viewport) 
+                 map.fitBounds(results[0].geometry.viewport);
+             } else {
+               alert("No results found");
+             }
+           } else {
+            alert("Geocode was not successful for the following reason: " + status);
+	   		}
+			}
+		)
+	 }
+	
+			  document.getElementById('info').innerHTML=myHtml;
+			  
+			if (addressStr != "Alaska") {
+				
+			countiesLayer.setMap(null);
+			
+    		countiesLayer = new google.maps.FusionTablesLayer({
+    		    query: {
+    		        select: "Location",
+    		        from: "1ACP4-rrdn1c9W9f81rIQ8KpjOBuvthvc2j7njyU",
+    		        //filters for a state abbreviation that we pull in from state we click on, corres. to column that was in county data
+    		        where: "'Location' = '"+myHtml+"'"
+    		    },
+    		    map: map,
+    		    styleId: 3,
+    		    templateId: 3
+    		});
+			countiesLayer.setMap(map)
+			}
+			else if (addressStr === 'Alaska') {
+				
+				countiesLayer.setMap(null);
+				map.setCenter(new google.maps.LatLng(65.658275,-152.929688));
+				map.setZoom(5);
+				countiesLayer = new google.maps.FusionTablesLayer({
+    		    query: {
+    		        select: "Location",
+    		        from: "1ACP4-rrdn1c9W9f81rIQ8KpjOBuvthvc2j7njyU",
+    		        //filters for a state abbreviation that we pull in from state we click on, corres. to column that was in county data
+    		        where: "'Location' = '"+myHtml+"'"
+    		    },
+    		    map: map,
+    		    styleId: 3,
+    		    templateId: 3
+    		});	
+			
+			}
+
+    		 //put this filtered county layer on map on top of the states
+			 countiesLayer.setMap(map)
+			 
+			 //statesLayer.disableMapTips();
+           
+  	}
+}
+  	google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
+    
+    <script type="text/javascript">
+	
+	function showCounties(){
+		
+		var mapOptions = {
+	        zoom: 6,
+		    center: new google.maps.LatLng(35.41719242517469, -95.3651930625),
+		    mapTypeId: google.maps.MapTypeId.ROADMAP
+		};
+	  
+	    var map = new google.maps.Map(document.getElementById('map_canvas'), mapOptions);
+		  	
+	    var countiesLayer = new google.maps.FusionTablesLayer({
+		    query: {
+		        select: "Location",
+			    from: "1ACP4-rrdn1c9W9f81rIQ8KpjOBuvthvc2j7njyU"
+		    },
+		    map: map,
+		    styleId: 3,
+		    templateId: 3
+		});
+		
+		document.getElementById("countyShow").onclick=hideCounties;
+	}
+	
+	function hideCounties() {
+		
+		initialize();
+		document.getElementById("countyShow").onclick=showCounties;
+	}
+	
+	</script>
+  </head>
+  <body>
+  <input type="checkbox" onclick="showCounties()" id="countyShow">Check or uncheck to view counties</button>
+    <div id="map_canvas" style="width:100%;height:400px;"></div>
+    <div id="info">hhß</div>
+  </body>
+</html>

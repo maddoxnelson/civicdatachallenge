@@ -1,0 +1,11 @@
+Things to think about:
+
+MSA's:
+There are MICROpolitan verus METROpolitan statiscal areas. I THINK we can plot all of them, but can we go for just one, at least for this phase?
+
+FONTS
+
+To Do List:
+-Spend a half hour or so on trying to get the KML file converted to polygons that can be used in lieu of the points.
+-Rig up the div container that is supposed to appear, and get something basic to show up — the name of the Micro/Metropolitan area, for example.
+-Fix the Washington BUG

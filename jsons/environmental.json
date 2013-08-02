@@ -1,0 +1,564 @@
+{"MSA_environmental":
+[
+  {
+    "Metropolitan Area":"Atlanta-Sandy Springs-Marietta, GA",
+    "Unemployment Rate, 2010":10.2,
+    "Homeownership Rate":68.4,
+    "Percent of Residents with a High School Education":86.9,
+    "Percent of Residents with a College Degree":34.1,
+    "Poverty Rate":13.4,
+    "Nonprofits: Number per 1000 residents":377.8,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+    
+  },
+  {
+    "Metropolitan Area":"Austin-Round Rock, TX",
+    "Unemployment Rate, 2010":7.1,
+    "Homeownership Rate":58.6,
+    "Percent of Residents with a High School Education":86.5,
+    "Percent of Residents with a College Degree":38.7,
+    "Poverty Rate":13.8,
+    "Nonprofits: Number per 1000 residents":494.4,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+  },
+  {
+    "Metropolitan Area":"Baltimore-Towson, MD",
+    "Unemployment Rate, 2010":7.9,
+    "Homeownership Rate":68,
+    "Percent of Residents with a High School Education":88.1,
+    "Percent of Residents with a College Degree":34.7,
+    "Poverty Rate":10.2,
+    "Nonprofits: Number per 1000 residents":512,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Birmingham-Hoover, AL",
+    "Unemployment Rate, 2010":9.2,
+    "Homeownership Rate":70.4,
+    "Percent of Residents with a High School Education":85.7,
+    "Percent of Residents with a College Degree":27.3,
+    "Poverty Rate":14.2,
+    "Nonprofits: Number per 1000 residents":452.7,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Boston-Cambridge-Quincy, MA-NH",
+    "Unemployment Rate, 2010":7.8,
+    "Homeownership Rate":63.4,
+    "Percent of Residents with a High School Education":90.5,
+    "Percent of Residents with a College Degree":42.1,
+    "Poverty Rate":9.3,
+    "Nonprofits: Number per 1000 residents":560.5,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Buffalo-Niagara Falls, NY",
+    "Unemployment Rate, 2010":8.4,
+    "Homeownership Rate":66.5,
+    "Percent of Residents with a High School Education":88.7,
+    "Percent of Residents with a College Degree":28.2,
+    "Poverty Rate":13.9,
+    "Nonprofits: Number per 1000 residents":439.5,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Charlotte-Gastonia-Concord, NC-SC",
+    "Unemployment Rate, 2010":11.9,
+    "Homeownership Rate":66.9,
+    "Percent of Residents with a High School Education":86.6,
+    "Percent of Residents with a College Degree":32.4,
+    "Poverty Rate":13.5,
+    "Nonprofits: Number per 1000 residents":450.3,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Chicago-Naperville-Joliet, IL-IN-WI",
+    "Unemployment Rate, 2010":10.5,
+    "Homeownership Rate":66.9,
+    "Percent of Residents with a High School Education":85.9,
+    "Percent of Residents with a College Degree":33.5,
+    "Poverty Rate":12.6,
+    "Nonprofits: Number per 1000 residents":418,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Cincinnati-Middletown, OH-KY-IN",
+    "Unemployment Rate, 2010":9.8,
+    "Homeownership Rate":68.2,
+    "Percent of Residents with a High School Education":87.5,
+    "Percent of Residents with a College Degree":28.5,
+    "Poverty Rate":12.6,
+    "Nonprofits: Number per 1000 residents":443.4,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Cleveland-Elyria-Mentor, OH",
+    "Unemployment Rate, 2010":9.2,
+    "Homeownership Rate":66.3,
+    "Percent of Residents with a High School Education":87.7,
+    "Percent of Residents with a College Degree":26.9,
+    "Poverty Rate":15.3,
+    "Nonprofits: Number per 1000 residents":579.7,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Columbus, OH",
+    "Unemployment Rate, 2010":8.8,
+    "Homeownership Rate":63.2,
+    "Percent of Residents with a High School Education":89.7,
+    "Percent of Residents with a College Degree":33.2,
+    "Poverty Rate":15.5,
+    "Nonprofits: Number per 1000 residents":553.5,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Dallas-Fort Worth-Arlington, TX",
+    "Unemployment Rate, 2010":8.2,
+    "Homeownership Rate":62.2,
+    "Percent of Residents with a High School Education":81.8,
+    "Percent of Residents with a College Degree":30,
+    "Poverty Rate":14.4,
+    "Nonprofits: Number per 1000 residents":362.8,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Denver-Aurora, CO",
+    "Unemployment Rate, 2010":8.9,
+    "Homeownership Rate":65.5,
+    "Percent of Residents with a High School Education":88.7,
+    "Percent of Residents with a College Degree":37.6,
+    "Poverty Rate":12,
+    "Nonprofits: Number per 1000 residents":447.5,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Detroit-Warren-Livonia, MI",
+    "Unemployment Rate, 2010":14.3,
+    "Homeownership Rate":72,
+    "Percent of Residents with a High School Education":86.9,
+    "Percent of Residents with a College Degree":26.2,
+    "Poverty Rate":16.2,
+    "Nonprofits: Number per 1000 residents":386.9,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Hartford-West Hartford-East Hartford, CT",
+    "Unemployment Rate, 2010":9,
+    "Homeownership Rate":69.6,
+    "Percent of Residents with a High School Education":88.9,
+    "Percent of Residents with a College Degree":34.6,
+    "Poverty Rate":9.1,
+    "Nonprofits: Number per 1000 residents":534.2,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Houston-Baytown-Sugar Land, TX",
+    "Unemployment Rate, 2010":8.3,
+    "Homeownership Rate":62.2,
+    "Percent of Residents with a High School Education":80,
+    "Percent of Residents with a College Degree":27.8,
+    "Poverty Rate":15.2,
+    "Nonprofits: Number per 1000 residents":327.8,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Indianapolis, IN",
+    "Unemployment Rate, 2010":9.2,
+    "Homeownership Rate":66.3,
+    "Percent of Residents with a High School Education":87.5,
+    "Percent of Residents with a College Degree":31,
+    "Poverty Rate":13.7,
+    "Nonprofits: Number per 1000 residents":531.5,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Jacksonville, FL",
+    "Unemployment Rate, 2010":11,
+    "Homeownership Rate":67.8,
+    "Percent of Residents with a High School Education":88.2,
+    "Percent of Residents with a College Degree":27.3,
+    "Poverty Rate":13.4,
+    "Nonprofits: Number per 1000 residents":383.3,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Kansas City, MO-KS",
+    "Unemployment Rate, 2010":9,
+    "Homeownership Rate":67.9,
+    "Percent of Residents with a High School Education":89.9,
+    "Percent of Residents with a College Degree":32.7,
+    "Poverty Rate":11.3,
+    "Nonprofits: Number per 1000 residents":566.4,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Las Vegas-Paradise, NV",
+    "Unemployment Rate, 2010":15,
+    "Homeownership Rate":56.8,
+    "Percent of Residents with a High School Education":82.9,
+    "Percent of Residents with a College Degree":21.6,
+    "Poverty Rate":12.2,
+    "Nonprofits: Number per 1000 residents":202,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Los Angeles-Long Beach-Santa Ana, CA",
+    "Unemployment Rate, 2010":11.7,
+    "Homeownership Rate":50.7,
+    "Percent of Residents with a High School Education":77.6,
+    "Percent of Residents with a College Degree":30.1,
+    "Poverty Rate":14.7,
+    "Nonprofits: Number per 1000 residents":350,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Louisville, KY-IN",
+    "Unemployment Rate, 2010":10.4,
+    "Homeownership Rate":68.5,
+    "Percent of Residents with a High School Education":86.8,
+    "Percent of Residents with a College Degree":24.8,
+    "Poverty Rate":14.1,
+    "Nonprofits: Number per 1000 residents":429.7,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Memphis, TN-MS-AR",
+    "Unemployment Rate, 2010":10.1,
+    "Homeownership Rate":63.8,
+    "Percent of Residents with a High School Education":83.7,
+    "Percent of Residents with a College Degree":24.2,
+    "Poverty Rate":19.3,
+    "Nonprofits: Number per 1000 residents":688.4,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Miami-Fort Lauderdale-Miami Beach, FL",
+    "Unemployment Rate, 2010":11.1,
+    "Homeownership Rate":64.6,
+    "Percent of Residents with a High School Education":82.5,
+    "Percent of Residents with a College Degree":27.7,
+    "Poverty Rate":15.3,
+    "Nonprofits: Number per 1000 residents":324.3,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Milwaukee-Waukesha-West Allis, WI",
+    "Unemployment Rate, 2010":9,
+    "Homeownership Rate":62.3,
+    "Percent of Residents with a High School Education":88.8,
+    "Percent of Residents with a College Degree":30.8,
+    "Poverty Rate":14.2,
+    "Nonprofits: Number per 1000 residents":590.3,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Minneapolis-St. Paul-Bloomington, MN-WI",
+    "Unemployment Rate, 2010":7.4,
+    "Homeownership Rate":72.4,
+    "Percent of Residents with a High School Education":92.4,
+    "Percent of Residents with a College Degree":37.5,
+    "Poverty Rate":9.8,
+    "Nonprofits: Number per 1000 residents":502.3,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Nashville-Davidson-Murfreesboro, TN",
+    "Unemployment Rate, 2010":8.8,
+    "Homeownership Rate":67.7,
+    "Percent of Residents with a High School Education":86.9,
+    "Percent of Residents with a College Degree":30.9,
+    "Poverty Rate":13.3,
+    "Nonprofits: Number per 1000 residents":409.2,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"New Orleans-Metairie-Kenner, LA",
+    "Unemployment Rate, 2010":7.1,
+    "Homeownership Rate":65.5,
+    "Percent of Residents with a High School Education":84.7,
+    "Percent of Residents with a College Degree":26.2,
+    "Poverty Rate":15.9,
+    "Nonprofits: Number per 1000 residents":446.3,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"New York-Northern New Jersey-Long Island, NY-NJ-PA",
+    "Unemployment Rate, 2010":9,
+    "Homeownership Rate":52.7,
+    "Percent of Residents with a High School Education":84.3,
+    "Percent of Residents with a College Degree":35.6,
+    "Poverty Rate":12.8,
+    "Nonprofits: Number per 1000 residents":432.1,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Oklahoma City, OK",
+    "Unemployment Rate, 2010":6.6,
+    "Homeownership Rate":65.3,
+    "Percent of Residents with a High School Education":87.1,
+    "Percent of Residents with a College Degree":27.2,
+    "Poverty Rate":15.2,
+    "Nonprofits: Number per 1000 residents":427.6,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Orlando, FL",
+    "Unemployment Rate, 2010":11.3,
+    "Homeownership Rate":66.1,
+    "Percent of Residents with a High School Education":87.3,
+    "Percent of Residents with a College Degree":26.5,
+    "Poverty Rate":13.3,
+    "Nonprofits: Number per 1000 residents":321.1,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Philadelphia-Camden-Wilmington, PA-NJ-DE",
+    "Unemployment Rate, 2010":8.9,
+    "Homeownership Rate":69.5,
+    "Percent of Residents with a High School Education":88.1,
+    "Percent of Residents with a College Degree":32.3,
+    "Poverty Rate":11.8,
+    "Nonprofits: Number per 1000 residents":469.5,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Phoenix-Mesa-Scottsdale, AZ",
+    "Unemployment Rate, 2010":9.4,
+    "Homeownership Rate":66.3,
+    "Percent of Residents with a High School Education":84.6,
+    "Percent of Residents with a College Degree":27.2,
+    "Poverty Rate":15,
+    "Nonprofits: Number per 1000 residents":258,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Pittsburgh, PA",
+    "Unemployment Rate, 2010":8,
+    "Homeownership Rate":70.1,
+    "Percent of Residents with a High School Education":91,
+    "Percent of Residents with a College Degree":27.8,
+    "Poverty Rate":12.2,
+    "Nonprofits: Number per 1000 residents":571.8,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Portland-Vancouver-Beaverton, OR-WA",
+    "Unemployment Rate, 2010":10.7,
+    "Homeownership Rate":62,
+    "Percent of Residents with a High School Education":90.1,
+    "Percent of Residents with a College Degree":33.9,
+    "Poverty Rate":12,
+    "Nonprofits: Number per 1000 residents":450.9,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Providence-Fall River-Warwick, RI-MA",
+    "Unemployment Rate, 2010":11.5,
+    "Homeownership Rate":63.9,
+    "Percent of Residents with a High School Education":83.3,
+    "Percent of Residents with a College Degree":28.1,
+    "Poverty Rate":11.3,
+    "Nonprofits: Number per 1000 residents":605.8,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Raleigh-Cary, NC",
+    "Unemployment Rate, 2010":8.9,
+    "Homeownership Rate":68.5,
+    "Percent of Residents with a High School Education":89.3,
+    "Percent of Residents with a College Degree":42.2,
+    "Poverty Rate":11.4,
+    "Nonprofits: Number per 1000 residents":458.5,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Richmond, VA",
+    "Unemployment Rate, 2010":7.8,
+    "Homeownership Rate":69,
+    "Percent of Residents with a High School Education":85.3,
+    "Percent of Residents with a College Degree":31.3,
+    "Poverty Rate":11.2,
+    "Nonprofits: Number per 1000 residents":476.6,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Riverside-San Bernardino-Ontario, CA",
+    "Unemployment Rate, 2010":14.4,
+    "Homeownership Rate":65.8,
+    "Percent of Residents with a High School Education":78.6,
+    "Percent of Residents with a College Degree":19.1,
+    "Poverty Rate":15.3,
+    "Nonprofits: Number per 1000 residents":230.7,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Rochester, NY",
+    "Unemployment Rate, 2010":8.2,
+    "Homeownership Rate":69.5,
+    "Percent of Residents with a High School Education":88.6,
+    "Percent of Residents with a College Degree":31.6,
+    "Poverty Rate":12.1,
+    "Nonprofits: Number per 1000 residents":447.8,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Sacramento--Arden-Arcade-Roseville, CA",
+    "Unemployment Rate, 2010":12.4,
+    "Homeownership Rate":61.6,
+    "Percent of Residents with a High School Education":87,
+    "Percent of Residents with a College Degree":29.6,
+    "Poverty Rate":13.3,
+    "Nonprofits: Number per 1000 residents":438,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Salt Lake City, UT",
+    "Unemployment Rate, 2010":7.4,
+    "Homeownership Rate":69.4,
+    "Percent of Residents with a High School Education":88.9,
+    "Percent of Residents with a College Degree":29.6,
+    "Poverty Rate":9.9,
+    "Nonprofits: Number per 1000 residents":406.3,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"San Antonio, TX",
+    "Unemployment Rate, 2010":7.1,
+    "Homeownership Rate":65,
+    "Percent of Residents with a High School Education":81.5,
+    "Percent of Residents with a College Degree":24.7,
+    "Poverty Rate":16.5,
+    "Nonprofits: Number per 1000 residents":321.4,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"San Diego-Carlsbad-San Marcos, CA",
+    "Unemployment Rate, 2010":10.5,
+    "Homeownership Rate":55.1,
+    "Percent of Residents with a High School Education":85.4,
+    "Percent of Residents with a College Degree":34.5,
+    "Poverty Rate":12.5,
+    "Nonprofits: Number per 1000 residents":364.1,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"San Francisco-Oakland-Fremont, CA",
+    "Unemployment Rate, 2010":10.3,
+    "Homeownership Rate":55.5,
+    "Percent of Residents with a High School Education":86.9,
+    "Percent of Residents with a College Degree":43.4,
+    "Poverty Rate":9.8,
+    "Nonprofits: Number per 1000 residents":549.3,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"San Jose-Sunnyvale-Santa Clara, CA",
+    "Unemployment Rate, 2010":11.4,
+    "Homeownership Rate":58.8,
+    "Percent of Residents with a High School Education":85.3,
+    "Percent of Residents with a College Degree":43.2,
+    "Poverty Rate":9.3,
+    "Nonprofits: Number per 1000 residents":429.9,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Seattle-Tacoma-Bellevue, WA",
+    "Unemployment Rate, 2010":9.4,
+    "Homeownership Rate":61.7,
+    "Percent of Residents with a High School Education":91.2,
+    "Percent of Residents with a College Degree":37.4,
+    "Poverty Rate":10.3,
+    "Nonprofits: Number per 1000 residents":480.7,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"St. Louis, MO-IL",
+    "Unemployment Rate, 2010":10.1,
+    "Homeownership Rate":70.6,
+    "Percent of Residents with a High School Education":88.7,
+    "Percent of Residents with a College Degree":29.3,
+    "Poverty Rate":12.5,
+    "Nonprofits: Number per 1000 residents":487.6,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Tampa-St. Petersburg-Clearwater, FL",
+    "Unemployment Rate, 2010":11.9,
+    "Homeownership Rate":67.8,
+    "Percent of Residents with a High School Education":86.4,
+    "Percent of Residents with a College Degree":24.6,
+    "Poverty Rate":13.9,
+    "Nonprofits: Number per 1000 residents":316.7,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Virginia Beach-Norfolk-Newport News, VA-NC",
+    "Unemployment Rate, 2010":7.4,
+    "Homeownership Rate":63.1,
+    "Percent of Residents with a High School Education":89.4,
+    "Percent of Residents with a College Degree":27.1,
+    "Poverty Rate":10.3,
+    "Nonprofits: Number per 1000 residents":385.4,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  },
+  {
+    "Metropolitan Area":"Washington-Arlington-Alexandria, DC-VA-MD-WV",
+    "Unemployment Rate, 2010":6.3,
+    "Homeownership Rate":66,
+    "Percent of Residents with a High School Education":89.9,
+    "Percent of Residents with a College Degree":47.2,
+    "Poverty Rate":7.5,
+    "Nonprofits: Number per 1000 residents":705.7,
+    "labels_environment":["Unemployment Rate, 2010","Homeownership Rate","Percent of Residents with a High School Education","Percent of Residents with a College Degree","Poverty Rate","Nonprofits: Number per 1000 residents"]
+   
+  }
+]
+}

@@ -1,0 +1,200 @@
+rect:hover {
+				fill: orange;
+			}
+			
+.volunteers_by_year{
+	padding:1em;
+	width:30%;
+	background:white;
+	float:right;
+	position:absolute;
+	margin-top:15%;
+	top: 50px;
+	left: 65px;
+	box-shadow:5px 5px 15px #000000;
+}
+
+.environmental_num {
+	font-family: 'Oswald', sans-serif;
+	font-weight:700;
+	font-size:2.5em;
+}
+
+.Slide3{
+	font-family: 'Oswald', sans-serif;
+	font-weight:300;
+}
+
+.high_school{
+	left:5%;
+	top:8%;
+	position:absolute;
+	text-shadow: 2px 2px 5px #888888;
+}
+
+.college{
+	top:40%;
+	left:5%;
+	position:absolute;
+	text-shadow: 2px 2px 5px #888888;
+}
+
+.underemployed{
+	left:80%;
+	top:10%;
+	position:absolute;
+	text-shadow: 2px 2px 5px #888888;
+}
+
+.non_profits{
+	left:55%;
+	top:35%;
+	text-shadow: 2px 2px 5px #888888;
+	position:absolute;
+}
+
+.poverty_rate {
+	left:80%;
+	top:40%;
+	text-shadow: 2px 2px 5px #888888;
+	position:absolute;
+}
+
+.homeowners {
+	left:28%;
+	top:10%;
+	text-shadow: 2px 2px 5px #888888;
+	position:absolute;
+}
+
+.main_environmental_icon {
+	top: 15%;
+	left:35%;
+	position:absolute;
+}
+
+.where_people_volunteered {
+	float:right;
+	top: 175px;
+	position:fixed;
+	left:700px;
+}
+
+.volunteer_info{
+	font-family: Oswald, sans-serif;
+	font-weight:300;
+	font-size:1em;
+	float:right;
+	}
+
+.main_icon {
+	margin-top: 10%;
+	left:40%;
+	position:absolute;
+}
+
+.volunteers_2011{
+	font-family:Oswald, sans-serif;
+	font-weight:300;
+	font-size:1em;
+	position:fixed;
+	top: 150px;
+	left: 65px;
+}
+
+.bolded_class{
+	font-weight:700;
+	font-size:2em;
+}
+
+.public_schools{
+	position:fixed;
+	left:13%;
+	top:20%;
+}
+
+.corporations{
+	position:fixed;
+	top:55%;
+	left:13%;
+}
+
+.media{
+	position:fixed;
+	left:80%;
+	top:30%;
+}
+
+.slide4_background{
+	position:fixed;
+	width:100%;
+}
+
+.slide4_background img{
+	position:fixed;
+	width:100%;
+}
+
+.fixed {
+	position: fixed;
+}
+
+.slide5_background{
+	width:100%;
+	height:auto;
+}
+
+.slide5_background img{
+	width:100%;
+	height:auto;
+}
+
+.politics{
+	top:22%;
+	left:7%;
+}
+
+.public_official {
+	top: 40%;
+	left: 28%;
+}
+
+.local_elections {
+	top: 58%;
+	left: 15%;
+}
+
+.political_thoughts_online{
+	left: 76%;
+	top: 28%;
+}
+
+.neighbor_talk {
+	left: 67%;
+	top: 57%;
+}
+
+.slide2_background_image {
+	width:100%;
+	left:0%;
+}
+
+.slide2_background_image img{
+	width:100%;
+}
+
+.volunteering_by_gender{
+	position: fixed;
+	top: 364px;
+	left: 61px;
+}
+
+.age_group{
+	top: 356px;
+	left: 750px;
+}
+
+.special_population{
+	top: 356px;
+	left: 995px;
+}

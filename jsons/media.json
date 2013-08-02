@@ -1,0 +1,361 @@
+{"MSA_media":
+[
+  {
+    "Metropolitan Area":"Atlanta-Sandy Springs-Marietta, GA",
+    "Q21: Confidence in The Media - No Confidence":9.8,
+    "Q21: Confidence in The Media - Hardly any Confidence":32.5,
+    "Q21: Confidence in The Media - Some Confidence":51.2,
+    "Q21: Confidence in The Media - A great Deal of Confidence":6.3
+  },
+  {
+    "Metropolitan Area":"Austin-Round Rock, TX",
+    "Q21: Confidence in The Media - No Confidence":9.2,
+    "Q21: Confidence in The Media - Hardly any Confidence":34.7,
+    "Q21: Confidence in The Media - Some Confidence":54.3,
+    "Q21: Confidence in The Media - A great Deal of Confidence":1.6
+  },
+  {
+    "Metropolitan Area":"Baltimore-Towson, MD",
+    "Q21: Confidence in The Media - No Confidence":8.8,
+    "Q21: Confidence in The Media - Hardly any Confidence":23.7,
+    "Q21: Confidence in The Media - Some Confidence":63.4,
+    "Q21: Confidence in The Media - A great Deal of Confidence":3.9
+  },
+  {
+    "Metropolitan Area":"Birmingham-Hoover, AL",
+    "Q21: Confidence in The Media - No Confidence":9,
+    "Q21: Confidence in The Media - Hardly any Confidence":28.6,
+    "Q21: Confidence in The Media - Some Confidence":58.5,
+    "Q21: Confidence in The Media - A great Deal of Confidence":3.8
+  },
+  {
+    "Metropolitan Area":"Boston-Cambridge-Quincy, MA-NH",
+    "Q21: Confidence in The Media - No Confidence":7.3,
+    "Q21: Confidence in The Media - Hardly any Confidence":26.3,
+    "Q21: Confidence in The Media - Some Confidence":60.6,
+    "Q21: Confidence in The Media - A great Deal of Confidence":5.6
+  },
+  {
+    "Metropolitan Area":"Buffalo-Niagara Falls, NY",
+    "Q21: Confidence in The Media - No Confidence":16.5,
+    "Q21: Confidence in The Media - Hardly any Confidence":35.9,
+    "Q21: Confidence in The Media - Some Confidence":44.7,
+    "Q21: Confidence in The Media - A great Deal of Confidence":2.7
+  },
+  {
+    "Metropolitan Area":"Charlotte-Gastonia-Concord, NC-SC",
+    "Q21: Confidence in The Media - No Confidence":10.6,
+    "Q21: Confidence in The Media - Hardly any Confidence":31,
+    "Q21: Confidence in The Media - Some Confidence":51.8,
+    "Q21: Confidence in The Media - A great Deal of Confidence":6.5
+  },
+  {
+    "Metropolitan Area":"Chicago-Naperville-Joliet, IL-IN-WI",
+    "Q21: Confidence in The Media - No Confidence":9.5,
+    "Q21: Confidence in The Media - Hardly any Confidence":24.7,
+    "Q21: Confidence in The Media - Some Confidence":60.5,
+    "Q21: Confidence in The Media - A great Deal of Confidence":5.1
+  },
+  {
+    "Metropolitan Area":"Cincinnati-Middletown, OH-KY-IN",
+    "Q21: Confidence in The Media - No Confidence":15.9,
+    "Q21: Confidence in The Media - Hardly any Confidence":36.9,
+    "Q21: Confidence in The Media - Some Confidence":43.5,
+    "Q21: Confidence in The Media - A great Deal of Confidence":3.6
+  },
+  {
+    "Metropolitan Area":"Cleveland-Elyria-Mentor, OH",
+    "Q21: Confidence in The Media - No Confidence":11.5,
+    "Q21: Confidence in The Media - Hardly any Confidence":24.7,
+    "Q21: Confidence in The Media - Some Confidence":61.1,
+    "Q21: Confidence in The Media - A great Deal of Confidence":2.5
+  },
+  {
+    "Metropolitan Area":"Columbus, OH",
+    "Q21: Confidence in The Media - No Confidence":10.6,
+    "Q21: Confidence in The Media - Hardly any Confidence":31.2,
+    "Q21: Confidence in The Media - Some Confidence":52.1,
+    "Q21: Confidence in The Media - A great Deal of Confidence":5.9
+  },
+  {
+    "Metropolitan Area":"Dallas-Fort Worth-Arlington, TX",
+    "Q21: Confidence in The Media - No Confidence":10,
+    "Q21: Confidence in The Media - Hardly any Confidence":23.6,
+    "Q21: Confidence in The Media - Some Confidence":59.7,
+    "Q21: Confidence in The Media - A great Deal of Confidence":6.5
+  },
+  {
+    "Metropolitan Area":"Denver-Aurora, CO",
+    "Q21: Confidence in The Media - No Confidence":8.5,
+    "Q21: Confidence in The Media - Hardly any Confidence":36.3,
+    "Q21: Confidence in The Media - Some Confidence":52.8,
+    "Q21: Confidence in The Media - A great Deal of Confidence":2.2
+  },
+  {
+    "Metropolitan Area":"Detroit-Warren-Livonia, MI",
+    "Q21: Confidence in The Media - No Confidence":9.5,
+    "Q21: Confidence in The Media - Hardly any Confidence":27.2,
+    "Q21: Confidence in The Media - Some Confidence":58.6,
+    "Q21: Confidence in The Media - A great Deal of Confidence":4.5
+  },
+  {
+    "Metropolitan Area":"Hartford-West Hartford-East Hartford, CT",
+    "Q21: Confidence in The Media - No Confidence":10.5,
+    "Q21: Confidence in The Media - Hardly any Confidence":31.5,
+    "Q21: Confidence in The Media - Some Confidence":49.4,
+    "Q21: Confidence in The Media - A great Deal of Confidence":8.4
+  },
+  {
+    "Metropolitan Area":"Houston-Baytown-Sugar Land, TX",
+    "Q21: Confidence in The Media - No Confidence":9.3,
+    "Q21: Confidence in The Media - Hardly any Confidence":27.9,
+    "Q21: Confidence in The Media - Some Confidence":56.2,
+    "Q21: Confidence in The Media - A great Deal of Confidence":6.4
+  },
+  {
+    "Metropolitan Area":"Indianapolis, IN",
+    "Q21: Confidence in The Media - No Confidence":4.8,
+    "Q21: Confidence in The Media - Hardly any Confidence":40,
+    "Q21: Confidence in The Media - Some Confidence":51.4,
+    "Q21: Confidence in The Media - A great Deal of Confidence":3.6
+  },
+  {
+    "Metropolitan Area":"Jacksonville, FL",
+    "Q21: Confidence in The Media - No Confidence":15.7,
+    "Q21: Confidence in The Media - Hardly any Confidence":29.1,
+    "Q21: Confidence in The Media - Some Confidence":48.7,
+    "Q21: Confidence in The Media - A great Deal of Confidence":6.3
+  },
+  {
+    "Metropolitan Area":"Kansas City, MO-KS",
+    "Q21: Confidence in The Media - No Confidence":8.1,
+    "Q21: Confidence in The Media - Hardly any Confidence":28,
+    "Q21: Confidence in The Media - Some Confidence":57.6,
+    "Q21: Confidence in The Media - A great Deal of Confidence":6
+  },
+  {
+    "Metropolitan Area":"Las Vegas-Paradise, NV",
+    "Q21: Confidence in The Media - No Confidence":9.9,
+    "Q21: Confidence in The Media - Hardly any Confidence":38.9,
+    "Q21: Confidence in The Media - Some Confidence":45.7,
+    "Q21: Confidence in The Media - A great Deal of Confidence":5.2
+  },
+  {
+    "Metropolitan Area":"Los Angeles-Long Beach-Santa Ana, CA",
+    "Q21: Confidence in The Media - No Confidence":12.1,
+    "Q21: Confidence in The Media - Hardly any Confidence":26.1,
+    "Q21: Confidence in The Media - Some Confidence":56.5,
+    "Q21: Confidence in The Media - A great Deal of Confidence":5.2
+  },
+  {
+    "Metropolitan Area":"Louisville, KY-IN",
+    "Q21: Confidence in The Media - No Confidence":8.8,
+    "Q21: Confidence in The Media - Hardly any Confidence":23.7,
+    "Q21: Confidence in The Media - Some Confidence":63.6,
+    "Q21: Confidence in The Media - A great Deal of Confidence":3.7
+  },
+  {
+    "Metropolitan Area":"Memphis, TN-MS-AR",
+    "Q21: Confidence in The Media - No Confidence":10.3,
+    "Q21: Confidence in The Media - Hardly any Confidence":27.2,
+    "Q21: Confidence in The Media - Some Confidence":55.8,
+    "Q21: Confidence in The Media - A great Deal of Confidence":6.5
+  },
+  {
+    "Metropolitan Area":"Miami-Fort Lauderdale-Miami Beach, FL",
+    "Q21: Confidence in The Media - No Confidence":13.6,
+    "Q21: Confidence in The Media - Hardly any Confidence":25.4,
+    "Q21: Confidence in The Media - Some Confidence":56.8,
+    "Q21: Confidence in The Media - A great Deal of Confidence":4
+  },
+  {
+    "Metropolitan Area":"Milwaukee-Waukesha-West Allis, WI",
+    "Q21: Confidence in The Media - No Confidence":10.3,
+    "Q21: Confidence in The Media - Hardly any Confidence":32.2,
+    "Q21: Confidence in The Media - Some Confidence":52.7,
+    "Q21: Confidence in The Media - A great Deal of Confidence":4.6
+  },
+  {
+    "Metropolitan Area":"Minneapolis-St Paul-Bloomington, MN-WI",
+    "Q21: Confidence in The Media - No Confidence":9.5,
+    "Q21: Confidence in The Media - Hardly any Confidence":26.9,
+    "Q21: Confidence in The Media - Some Confidence":58.5,
+    "Q21: Confidence in The Media - A great Deal of Confidence":5
+  },
+  {
+    "Metropolitan Area":"Nashville-Davidson-Murfreesboro, TN",
+    "Q21: Confidence in The Media - No Confidence":12.6,
+    "Q21: Confidence in The Media - Hardly any Confidence":26.7,
+    "Q21: Confidence in The Media - Some Confidence":49.6,
+    "Q21: Confidence in The Media - A great Deal of Confidence":10.9
+  },
+  {
+    "Metropolitan Area":"New Orleans-Metairie-Kenner, LA",
+    "Q21: Confidence in The Media - No Confidence":8.4,
+    "Q21: Confidence in The Media - Hardly any Confidence":32.4,
+    "Q21: Confidence in The Media - Some Confidence":53.6,
+    "Q21: Confidence in The Media - A great Deal of Confidence":5.4
+  },
+  {
+    "Metropolitan Area":"New York-Northern New Jersey-Long Island, NY-NJ-PA",
+    "Q21: Confidence in The Media - No Confidence":8.6,
+    "Q21: Confidence in The Media - Hardly any Confidence":27.3,
+    "Q21: Confidence in The Media - Some Confidence":58.3,
+    "Q21: Confidence in The Media - A great Deal of Confidence":5.6
+  },
+  {
+    "Metropolitan Area":"Oklahoma City, OK",
+    "Q21: Confidence in The Media - No Confidence":8.2,
+    "Q21: Confidence in The Media - Hardly any Confidence":29.6,
+    "Q21: Confidence in The Media - Some Confidence":55.2,
+    "Q21: Confidence in The Media - A great Deal of Confidence":6.9
+  },
+  {
+    "Metropolitan Area":"Orlando, FL",
+    "Q21: Confidence in The Media - No Confidence":7.5,
+    "Q21: Confidence in The Media - Hardly any Confidence":17.4,
+    "Q21: Confidence in The Media - Some Confidence":72.8,
+    "Q21: Confidence in The Media - A great Deal of Confidence":2.1
+  },
+  {
+    "Metropolitan Area":"Philadelphia-Camden-Wilmington, PA-NJ-DE",
+    "Q21: Confidence in The Media - No Confidence":7.3,
+    "Q21: Confidence in The Media - Hardly any Confidence":23.8,
+    "Q21: Confidence in The Media - Some Confidence":64.1,
+    "Q21: Confidence in The Media - A great Deal of Confidence":4.5
+  },
+  {
+    "Metropolitan Area":"Phoenix-Mesa-Scottsdale, AZ",
+    "Q21: Confidence in The Media - No Confidence":13.5,
+    "Q21: Confidence in The Media - Hardly any Confidence":26.4,
+    "Q21: Confidence in The Media - Some Confidence":55.5,
+    "Q21: Confidence in The Media - A great Deal of Confidence":4.3
+  },
+  {
+    "Metropolitan Area":"Pittsburgh, PA",
+    "Q21: Confidence in The Media - No Confidence":8,
+    "Q21: Confidence in The Media - Hardly any Confidence":28.6,
+    "Q21: Confidence in The Media - Some Confidence":57.5,
+    "Q21: Confidence in The Media - A great Deal of Confidence":5.7
+  },
+  {
+    "Metropolitan Area":"Portland-Vancouver-Beaverton, OR-WA",
+    "Q21: Confidence in The Media - No Confidence":11.7,
+    "Q21: Confidence in The Media - Hardly any Confidence":30.7,
+    "Q21: Confidence in The Media - Some Confidence":51.9,
+    "Q21: Confidence in The Media - A great Deal of Confidence":5.5
+  },
+  {
+    "Metropolitan Area":"Providence-Fall River-Warwick, RI-MA",
+    "Q21: Confidence in The Media - No Confidence":8.2,
+    "Q21: Confidence in The Media - Hardly any Confidence":21.8,
+    "Q21: Confidence in The Media - Some Confidence":62.6,
+    "Q21: Confidence in The Media - A great Deal of Confidence":7.1
+  },
+  {
+    "Metropolitan Area":"Raleigh-Cary, NC",
+    "Q21: Confidence in The Media - No Confidence":11.5,
+    "Q21: Confidence in The Media - Hardly any Confidence":35.8,
+    "Q21: Confidence in The Media - Some Confidence":48.2,
+    "Q21: Confidence in The Media - A great Deal of Confidence":4.2
+  },
+  {
+    "Metropolitan Area":"Richmond, VA",
+    "Q21: Confidence in The Media - No Confidence":16.6,
+    "Q21: Confidence in The Media - Hardly any Confidence":18.9,
+    "Q21: Confidence in The Media - Some Confidence":59.2,
+    "Q21: Confidence in The Media - A great Deal of Confidence":5
+  },
+  {
+    "Metropolitan Area":"Riverside-San Bernardino-Ontario, CA",
+    "Q21: Confidence in The Media - No Confidence":8.6,
+    "Q21: Confidence in The Media - Hardly any Confidence":33.9,
+    "Q21: Confidence in The Media - Some Confidence":53.1,
+    "Q21: Confidence in The Media - A great Deal of Confidence":4.2
+  },
+  {
+    "Metropolitan Area":"Rochester, NY",
+    "Q21: Confidence in The Media - No Confidence":0,
+    "Q21: Confidence in The Media - Hardly any Confidence":0,
+    "Q21: Confidence in The Media - Some Confidence":0,
+    "Q21: Confidence in The Media - A great Deal of Confidence":0
+  },
+  {
+    "Metropolitan Area":"Sacramento--Arden-Arcade-Roseville, CA",
+    "Q21: Confidence in The Media - No Confidence":10.2,
+    "Q21: Confidence in The Media - Hardly any Confidence":34.5,
+    "Q21: Confidence in The Media - Some Confidence":49.4,
+    "Q21: Confidence in The Media - A great Deal of Confidence":5.7
+  },
+  {
+    "Metropolitan Area":"Salt Lake City, UT",
+    "Q21: Confidence in The Media - No Confidence":7.3,
+    "Q21: Confidence in The Media - Hardly any Confidence":28.9,
+    "Q21: Confidence in The Media - Some Confidence":57.7,
+    "Q21: Confidence in The Media - A great Deal of Confidence":5.8
+  },
+  {
+    "Metropolitan Area":"San Antonio, TX",
+    "Q21: Confidence in The Media - No Confidence":9.6,
+    "Q21: Confidence in The Media - Hardly any Confidence":21.5,
+    "Q21: Confidence in The Media - Some Confidence":59.6,
+    "Q21: Confidence in The Media - A great Deal of Confidence":9.1
+  },
+  {
+    "Metropolitan Area":"San Diego-Carlsbad-San Marcos, CA",
+    "Q21: Confidence in The Media - No Confidence":9.7,
+    "Q21: Confidence in The Media - Hardly any Confidence":28.7,
+    "Q21: Confidence in The Media - Some Confidence":55.4,
+    "Q21: Confidence in The Media - A great Deal of Confidence":6
+  },
+  {
+    "Metropolitan Area":"San Francisco-Oakland-Fremont, CA",
+    "Q21: Confidence in The Media - No Confidence":8.9,
+    "Q21: Confidence in The Media - Hardly any Confidence":23,
+    "Q21: Confidence in The Media - Some Confidence":62.6,
+    "Q21: Confidence in The Media - A great Deal of Confidence":5.2
+  },
+  {
+    "Metropolitan Area":"San Jose-Sunnyvale-Santa Clara, CA",
+    "Q21: Confidence in The Media - No Confidence":9.5,
+    "Q21: Confidence in The Media - Hardly any Confidence":17.4,
+    "Q21: Confidence in The Media - Some Confidence":67.7,
+    "Q21: Confidence in The Media - A great Deal of Confidence":5.2
+  },
+  {
+    "Metropolitan Area":"Seattle-Tacoma-Bellevue, WA",
+    "Q21: Confidence in The Media - No Confidence":10,
+    "Q21: Confidence in The Media - Hardly any Confidence":27.2,
+    "Q21: Confidence in The Media - Some Confidence":59.6,
+    "Q21: Confidence in The Media - A great Deal of Confidence":3
+  },
+  {
+    "Metropolitan Area":"St. Louis, MO-IL",
+    "Q21: Confidence in The Media - No Confidence":6.2,
+    "Q21: Confidence in The Media - Hardly any Confidence":27.9,
+    "Q21: Confidence in The Media - Some Confidence":60,
+    "Q21: Confidence in The Media - A great Deal of Confidence":5.7
+  },
+  {
+    "Metropolitan Area":"Tampa-St. Petersburg-Clearwater, FL",
+    "Q21: Confidence in The Media - No Confidence":13.5,
+    "Q21: Confidence in The Media - Hardly any Confidence":30.9,
+    "Q21: Confidence in The Media - Some Confidence":52.7,
+    "Q21: Confidence in The Media - A great Deal of Confidence":2.7
+  },
+  {
+    "Metropolitan Area":"Virginia Beach-Norfolk-Newport News, VA-NC",
+    "Q21: Confidence in The Media - No Confidence":11.8,
+    "Q21: Confidence in The Media - Hardly any Confidence":25.5,
+    "Q21: Confidence in The Media - Some Confidence":58.1,
+    "Q21: Confidence in The Media - A great Deal of Confidence":4.4
+  },
+  {
+    "Metropolitan Area":"Washington-Arlington-Alexandria, DC-VA-MD-WV",
+    "Q21: Confidence in The Media - No Confidence":6.7,
+    "Q21: Confidence in The Media - Hardly any Confidence":20.9,
+    "Q21: Confidence in The Media - Some Confidence":67.4,
+    "Q21: Confidence in The Media - A great Deal of Confidence":4.8
+  }
+]
+}

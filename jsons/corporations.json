@@ -1,0 +1,361 @@
+{"MSA_corporations":
+[
+  {
+    "Metropolitan Area":"Atlanta-Sandy Springs-Marietta, GA",
+    "Q21: Confidence in Corporations - No Confidence":16.9,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":25.4,
+    "Q21: Confidence in Corporations - Some Confidence":49.5,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":8
+  },
+  {
+    "Metropolitan Area":"Austin-Round Rock, TX",
+    "Q21: Confidence in Corporations - No Confidence":19.8,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":24,
+    "Q21: Confidence in Corporations - Some Confidence":49.7,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":6.4
+  },
+  {
+    "Metropolitan Area":"Baltimore-Towson, MD",
+    "Q21: Confidence in Corporations - No Confidence":12.4,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":23.6,
+    "Q21: Confidence in Corporations - Some Confidence":59.8,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":4
+  },
+  {
+    "Metropolitan Area":"Birmingham-Hoover, AL",
+    "Q21: Confidence in Corporations - No Confidence":7.8,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":28.5,
+    "Q21: Confidence in Corporations - Some Confidence":55.5,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":8
+  },
+  {
+    "Metropolitan Area":"Boston-Cambridge-Quincy, MA-NH",
+    "Q21: Confidence in Corporations - No Confidence":12.8,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":22.4,
+    "Q21: Confidence in Corporations - Some Confidence":57.3,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":7.2
+  },
+  {
+    "Metropolitan Area":"Buffalo-Niagara Falls, NY",
+    "Q21: Confidence in Corporations - No Confidence":9.3,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":27.7,
+    "Q21: Confidence in Corporations - Some Confidence":61.9,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":0.8
+  },
+  {
+    "Metropolitan Area":"Charlotte-Gastonia-Concord, NC-SC",
+    "Q21: Confidence in Corporations - No Confidence":11.6,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":14,
+    "Q21: Confidence in Corporations - Some Confidence":64.5,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":9.7
+  },
+  {
+    "Metropolitan Area":"Chicago-Naperville-Joliet, IL-IN-WI",
+    "Q21: Confidence in Corporations - No Confidence":16.9,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":19.8,
+    "Q21: Confidence in Corporations - Some Confidence":56.8,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":6.3
+  },
+  {
+    "Metropolitan Area":"Cincinnati-Middletown, OH-KY-IN",
+    "Q21: Confidence in Corporations - No Confidence":11.9,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":30.5,
+    "Q21: Confidence in Corporations - Some Confidence":54.7,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":2.8
+  },
+  {
+    "Metropolitan Area":"Cleveland-Elyria-Mentor, OH",
+    "Q21: Confidence in Corporations - No Confidence":17.6,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":27.7,
+    "Q21: Confidence in Corporations - Some Confidence":51.2,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":3.3
+  },
+  {
+    "Metropolitan Area":"Columbus, OH",
+    "Q21: Confidence in Corporations - No Confidence":8.9,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":27.1,
+    "Q21: Confidence in Corporations - Some Confidence":54.7,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":9
+  },
+  {
+    "Metropolitan Area":"Dallas-Fort Worth-Arlington, TX",
+    "Q21: Confidence in Corporations - No Confidence":12.4,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":21,
+    "Q21: Confidence in Corporations - Some Confidence":57,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":9.4
+  },
+  {
+    "Metropolitan Area":"Denver-Aurora, CO",
+    "Q21: Confidence in Corporations - No Confidence":9.7,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":34.4,
+    "Q21: Confidence in Corporations - Some Confidence":49,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":6.6
+  },
+  {
+    "Metropolitan Area":"Detroit-Warren-Livonia, MI",
+    "Q21: Confidence in Corporations - No Confidence":14.7,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":23.2,
+    "Q21: Confidence in Corporations - Some Confidence":52,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":9.9
+  },
+  {
+    "Metropolitan Area":"Hartford-West Hartford-East Hartford, CT",
+    "Q21: Confidence in Corporations - No Confidence":13.1,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":30,
+    "Q21: Confidence in Corporations - Some Confidence":51.1,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":5.6
+  },
+  {
+    "Metropolitan Area":"Houston-Baytown-Sugar Land, TX",
+    "Q21: Confidence in Corporations - No Confidence":21.2,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":17,
+    "Q21: Confidence in Corporations - Some Confidence":53.3,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":8.3
+  },
+  {
+    "Metropolitan Area":"Indianapolis, IN",
+    "Q21: Confidence in Corporations - No Confidence":3.2,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":35.5,
+    "Q21: Confidence in Corporations - Some Confidence":57.4,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":3.7
+  },
+  {
+    "Metropolitan Area":"Jacksonville, FL",
+    "Q21: Confidence in Corporations - No Confidence":14.6,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":12.9,
+    "Q21: Confidence in Corporations - Some Confidence":59.8,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":12.5
+  },
+  {
+    "Metropolitan Area":"Kansas City, MO-KS",
+    "Q21: Confidence in Corporations - No Confidence":8.5,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":25.7,
+    "Q21: Confidence in Corporations - Some Confidence":59.2,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":6.4
+  },
+  {
+    "Metropolitan Area":"Las Vegas-Paradise, NV",
+    "Q21: Confidence in Corporations - No Confidence":15.3,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":32.3,
+    "Q21: Confidence in Corporations - Some Confidence":45.2,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":7
+  },
+  {
+    "Metropolitan Area":"Los Angeles-Long Beach-Santa Ana, CA",
+    "Q21: Confidence in Corporations - No Confidence":26.1,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":19.6,
+    "Q21: Confidence in Corporations - Some Confidence":47.3,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":6.8
+  },
+  {
+    "Metropolitan Area":"Louisville, KY-IN",
+    "Q21: Confidence in Corporations - No Confidence":9.3,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":14.3,
+    "Q21: Confidence in Corporations - Some Confidence":72.3,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":4
+  },
+  {
+    "Metropolitan Area":"Memphis, TN-MS-AR",
+    "Q21: Confidence in Corporations - No Confidence":18.9,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":21.3,
+    "Q21: Confidence in Corporations - Some Confidence":52,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":7.6
+  },
+  {
+    "Metropolitan Area":"Miami-Fort Lauderdale-Miami Beach, FL",
+    "Q21: Confidence in Corporations - No Confidence":11.1,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":23.3,
+    "Q21: Confidence in Corporations - Some Confidence":57.9,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":7.5
+  },
+  {
+    "Metropolitan Area":"Milwaukee-Waukesha-West Allis, WI",
+    "Q21: Confidence in Corporations - No Confidence":7.2,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":25.7,
+    "Q21: Confidence in Corporations - Some Confidence":56.1,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":10.7
+  },
+  {
+    "Metropolitan Area":"Minneapolis-St. Paul-Bloomington, MN-WI",
+    "Q21: Confidence in Corporations - No Confidence":7.7,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":23.1,
+    "Q21: Confidence in Corporations - Some Confidence":60.9,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":8
+  },
+  {
+    "Metropolitan Area":"Nashville-Davidson-Murfreesboro, TN",
+    "Q21: Confidence in Corporations - No Confidence":12.3,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":21.7,
+    "Q21: Confidence in Corporations - Some Confidence":53.4,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":12.4
+  },
+  {
+    "Metropolitan Area":"New Orleans-Metairie-Kenner, LA",
+    "Q21: Confidence in Corporations - No Confidence":13.2,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":22.1,
+    "Q21: Confidence in Corporations - Some Confidence":60.1,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":4.5
+  },
+  {
+    "Metropolitan Area":"New York-Northern New Jersey-Long Island, NY-NJ-PA",
+    "Q21: Confidence in Corporations - No Confidence":17.5,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":26.2,
+    "Q21: Confidence in Corporations - Some Confidence":50,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":6.1
+  },
+  {
+    "Metropolitan Area":"Oklahoma City, OK",
+    "Q21: Confidence in Corporations - No Confidence":6.2,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":20.8,
+    "Q21: Confidence in Corporations - Some Confidence":66.4,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":6.4
+  },
+  {
+    "Metropolitan Area":"Orlando, FL",
+    "Q21: Confidence in Corporations - No Confidence":16.5,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":16.6,
+    "Q21: Confidence in Corporations - Some Confidence":61.7,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":5
+  },
+  {
+    "Metropolitan Area":"Philadelphia-Camden-Wilmington, PA-NJ-DE",
+    "Q21: Confidence in Corporations - No Confidence":12.1,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":24.6,
+    "Q21: Confidence in Corporations - Some Confidence":56.3,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":6.8
+  },
+  {
+    "Metropolitan Area":"Phoenix-Mesa-Scottsdale, AZ",
+    "Q21: Confidence in Corporations - No Confidence":25.4,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":18.6,
+    "Q21: Confidence in Corporations - Some Confidence":48.6,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":7.2
+  },
+  {
+    "Metropolitan Area":"Pittsburgh, PA",
+    "Q21: Confidence in Corporations - No Confidence":11.8,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":20.5,
+    "Q21: Confidence in Corporations - Some Confidence":64.2,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":3.2
+  },
+  {
+    "Metropolitan Area":"Portland-Vancouver-Beaverton, OR-WA",
+    "Q21: Confidence in Corporations - No Confidence":15.9,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":28.9,
+    "Q21: Confidence in Corporations - Some Confidence":48.6,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":6.3
+  },
+  {
+    "Metropolitan Area":"Providence-Fall River-Warwick, RI-MA",
+    "Q21: Confidence in Corporations - No Confidence":15,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":26.8,
+    "Q21: Confidence in Corporations - Some Confidence":53.7,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":4.2
+  },
+  {
+    "Metropolitan Area":"Raleigh-Cary, NC",
+    "Q21: Confidence in Corporations - No Confidence":10.8,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":26.2,
+    "Q21: Confidence in Corporations - Some Confidence":57.1,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":5.7
+  },
+  {
+    "Metropolitan Area":"Richmond, VA",
+    "Q21: Confidence in Corporations - No Confidence":8.2,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":19.2,
+    "Q21: Confidence in Corporations - Some Confidence":65.7,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":6.6
+  },
+  {
+    "Metropolitan Area":"Riverside-San Bernardino-Ontario, CA",
+    "Q21: Confidence in Corporations - No Confidence":26.6,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":24.2,
+    "Q21: Confidence in Corporations - Some Confidence":44.7,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":4.3
+  },
+  {
+    "Metropolitan Area":"Rochester, NY",
+    "Q21: Confidence in Corporations - No Confidence":0,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":0,
+    "Q21: Confidence in Corporations - Some Confidence":0,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":0
+  },
+  {
+    "Metropolitan Area":"Sacramento--Arden-Arcade-Roseville, CA",
+    "Q21: Confidence in Corporations - No Confidence":22.1,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":29.6,
+    "Q21: Confidence in Corporations - Some Confidence":45.8,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":2.3
+  },
+  {
+    "Metropolitan Area":"Salt Lake City, UT",
+    "Q21: Confidence in Corporations - No Confidence":9.3,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":24.5,
+    "Q21: Confidence in Corporations - Some Confidence":59.9,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":6.1
+  },
+  {
+    "Metropolitan Area":"San Antonio, TX",
+    "Q21: Confidence in Corporations - No Confidence":16.3,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":18.7,
+    "Q21: Confidence in Corporations - Some Confidence":56,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":8.7
+  },
+  {
+    "Metropolitan Area":"San Diego-Carlsbad-San Marcos, CA",
+    "Q21: Confidence in Corporations - No Confidence":15.2,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":25.2,
+    "Q21: Confidence in Corporations - Some Confidence":55.1,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":4.3
+  },
+  {
+    "Metropolitan Area":"San Francisco-Oakland-Fremont, CA",
+    "Q21: Confidence in Corporations - No Confidence":14.9,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":25.2,
+    "Q21: Confidence in Corporations - Some Confidence":54.3,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":5.4
+  },
+  {
+    "Metropolitan Area":"San Jose-Sunnyvale-Santa Clara, CA",
+    "Q21: Confidence in Corporations - No Confidence":14.4,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":20.6,
+    "Q21: Confidence in Corporations - Some Confidence":60.3,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":4.5
+  },
+  {
+    "Metropolitan Area":"Seattle-Tacoma-Bellevue, WA",
+    "Q21: Confidence in Corporations - No Confidence":11.6,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":22.7,
+    "Q21: Confidence in Corporations - Some Confidence":59.8,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":5.7
+  },
+  {
+    "Metropolitan Area":"St. Louis, MO-IL",
+    "Q21: Confidence in Corporations - No Confidence":13.5,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":25.3,
+    "Q21: Confidence in Corporations - Some Confidence":55.8,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":5.2
+  },
+  {
+    "Metropolitan Area":"Tampa-St. Petersburg-Clearwater, FL",
+    "Q21: Confidence in Corporations - No Confidence":12.2,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":21.8,
+    "Q21: Confidence in Corporations - Some Confidence":57.9,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":7.9
+  },
+  {
+    "Metropolitan Area":"Virginia Beach-Norfolk-Newport News, VA-NC",
+    "Q21: Confidence in Corporations - No Confidence":10,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":21.8,
+    "Q21: Confidence in Corporations - Some Confidence":63.5,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":4.4
+  },
+  {
+    "Metropolitan Area":"Washington-Arlington-Alexandria, DC-VA-MD-WV",
+    "Q21: Confidence in Corporations - No Confidence":17.7,
+    "Q21: Confidence in Corporations - Hardly Any Confidence":17.7,
+    "Q21: Confidence in Corporations - Some Confidence":58.5,
+    "Q21: Confidence in Corporations - A great Deal of Confidence":5.8
+  }
+]
+}

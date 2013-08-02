@@ -1,0 +1,30 @@
+ [
+	 
+		{ 
+			"variable1": 5, 
+			"variable2": 10, 
+			"variable3": 13, 
+			"variable4": 19, 
+			"variable5": 21,
+			"variable6": 25,
+			"variable7": 22,
+			"variable8": 18,
+			"variable9": 15,
+			"variable10": 13,
+			"variable11": 11,
+			"variable12": 12,
+			"variable13":15,
+			"variable14": 20,
+			"variable15": 18,
+			"variable16": 17,
+			"variable17": 16,
+			"variable18": 18,
+			"variable19": 23,
+			"variable20": 25 
+		}
+	]
+
+
+If this MSA Name = info box
+-create a dataset based on that info box
+-populate the graphs from that data set

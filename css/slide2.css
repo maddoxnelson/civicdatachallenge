@@ -1,0 +1,44 @@
+.Slide2 {
+	position:fixed;
+	background-size:90% auto;
+	width: 1200px;
+	height: 1000px;
+	top: 50px;
+	margin-left:2.5em;
+}
+
+.volunteering_by_gender {
+
+}
+
+.age_group{
+
+}
+
+.by_race{
+
+}
+
+.special_population{
+
+}
+
+.Slide4 {
+	position:fixed;
+	background:url('http://www.mattwebdev.com/civicdatachallenge/images/backgrounds/backgroundActivities5b.png') no-repeat;
+	background-size:100% auto;
+	width:100%;
+	height: 1000px;
+	top:10%;
+	margin-left:0em;
+}
+
+.Slide3 {
+	position:fixed;
+	background:url('http://www.mattwebdev.com/civicdatachallenge/images/backgrounds/backgroundEnvironment4.png') no-repeat;
+	background-size:95% auto;
+	width:100%;
+	height: 1000px;
+	top:8%;
+	margin-left:2.5em;
+}

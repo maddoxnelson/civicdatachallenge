@@ -1,0 +1,310 @@
+{"MSA_politics":
+[
+  {
+    "Metropolitan Area":"Atlanta-Sandy Springs-Marietta, GA",
+    "Discuss Politics - Frequently":33.1,
+    " Discuss Politics - Infrequently":40.4,
+    "Other":26.5
+  },
+  {
+    "Metropolitan Area":"Austin-Round Rock, TX",
+    "Discuss Politics - Frequently":33,
+    " Discuss Politics - Infrequently":38.2,
+    "Other":28.8
+  },
+  {
+    "Metropolitan Area":"Baltimore-Towson, MD",
+    "Discuss Politics - Frequently":28.9,
+    " Discuss Politics - Infrequently":51,
+    "Other":20.1
+  },
+  {
+    "Metropolitan Area":"Birmingham-Hoover, AL",
+    "Discuss Politics - Frequently":31.5,
+    " Discuss Politics - Infrequently":41.6,
+    "Other":26.9
+  },
+  {
+    "Metropolitan Area":"Boston-Cambridge-Quincy, MA-NH",
+    "Discuss Politics - Frequently":32.3,
+    " Discuss Politics - Infrequently":42.1,
+    "Other":25.6
+  },
+  {
+    "Metropolitan Area":"Buffalo-Niagara Falls, NY",
+    "Discuss Politics - Frequently":56.7,
+    " Discuss Politics - Infrequently":32.1,
+    "Other":11.2
+  },
+  {
+    "Metropolitan Area":"Charlotte-Gastonia-Concord, NC-SC",
+    "Discuss Politics - Frequently":35.6,
+    " Discuss Politics - Infrequently":39,
+    "Other":25.4
+  },
+  {
+    "Metropolitan Area":"Chicago-Naperville-Joliet, IL-IN-WI",
+    "Discuss Politics - Frequently":31.3,
+    " Discuss Politics - Infrequently":44.5,
+    "Other":24.2
+  },
+  {
+    "Metropolitan Area":"Cincinnati-Middletown, OH-KY-IN",
+    "Discuss Politics - Frequently":27.5,
+    " Discuss Politics - Infrequently":52.5,
+    "Other":20
+  },
+  {
+    "Metropolitan Area":"Cleveland-Elyria-Mentor, OH",
+    "Discuss Politics - Frequently":25.5,
+    " Discuss Politics - Infrequently":44.9,
+    "Other":29.6
+  },
+  {
+    "Metropolitan Area":"Columbus, OH",
+    "Discuss Politics - Frequently":32.6,
+    " Discuss Politics - Infrequently":42,
+    "Other":25.4
+  },
+  {
+    "Metropolitan Area":"Dallas-Fort Worth-Arlington, TX",
+    "Discuss Politics - Frequently":28.4,
+    " Discuss Politics - Infrequently":41.2,
+    "Other":30.4
+  },
+  {
+    "Metropolitan Area":"Denver-Aurora, CO",
+    "Discuss Politics - Frequently":31,
+    " Discuss Politics - Infrequently":50.1,
+    "Other":18.9
+  },
+  {
+    "Metropolitan Area":"Detroit-Warren-Livonia, MI",
+    "Discuss Politics - Frequently":22.3,
+    " Discuss Politics - Infrequently":50.8,
+    "Other":26.9
+  },
+  {
+    "Metropolitan Area":"Hartford-West Hartford-East Hartford, CT",
+    "Discuss Politics - Frequently":35.5,
+    " Discuss Politics - Infrequently":42.4,
+    "Other":22.1
+  },
+  {
+    "Metropolitan Area":"Houston-Baytown-Sugar Land, TX",
+    "Discuss Politics - Frequently":24.6,
+    " Discuss Politics - Infrequently":41.5,
+    "Other":33.9
+  },
+  {
+    "Metropolitan Area":"Indianapolis, IN",
+    "Discuss Politics - Frequently":14.1,
+    " Discuss Politics - Infrequently":39.6,
+    "Other":46.3
+  },
+  {
+    "Metropolitan Area":"Jacksonville, FL",
+    "Discuss Politics - Frequently":42.3,
+    " Discuss Politics - Infrequently":38.4,
+    "Other":19.3
+  },
+  {
+    "Metropolitan Area":"Kansas City, MO-KS",
+    "Discuss Politics - Frequently":29,
+    " Discuss Politics - Infrequently":46.8,
+    "Other":24.2
+  },
+  {
+    "Metropolitan Area":"Las Vegas-Paradise, NV",
+    "Discuss Politics - Frequently":28.9,
+    " Discuss Politics - Infrequently":45.2,
+    "Other":25.9
+  },
+  {
+    "Metropolitan Area":"Los Angeles-Long Beach-Santa Ana, CA",
+    "Discuss Politics - Frequently":27,
+    " Discuss Politics - Infrequently":38.3,
+    "Other":34.7
+  },
+  {
+    "Metropolitan Area":"Louisville, KY-IN",
+    "Discuss Politics - Frequently":18.9,
+    " Discuss Politics - Infrequently":38.6,
+    "Other":42.5
+  },
+  {
+    "Metropolitan Area":"Memphis, TN-MS-AR",
+    "Discuss Politics - Frequently":31.5,
+    " Discuss Politics - Infrequently":35.7,
+    "Other":32.8
+  },
+  {
+    "Metropolitan Area":"Miami-Fort Lauderdale-Miami Beach, FL",
+    "Discuss Politics - Frequently":28,
+    " Discuss Politics - Infrequently":40.8,
+    "Other":31.2
+  },
+  {
+    "Metropolitan Area":"Milwaukee-Waukesha-West Allis, WI",
+    "Discuss Politics - Frequently":43.2,
+    " Discuss Politics - Infrequently":38.3,
+    "Other":18.5
+  },
+  {
+    "Metropolitan Area":"Minneapolis-St. Paul-Bloomington, MN-WI",
+    "Discuss Politics - Frequently":34.6,
+    " Discuss Politics - Infrequently":46.6,
+    "Other":18.8
+  },
+  {
+    "Metropolitan Area":"Nashville-Davidson-Murfreesboro, TN",
+    "Discuss Politics - Frequently":32.7,
+    " Discuss Politics - Infrequently":46.2,
+    "Other":21.1
+  },
+  {
+    "Metropolitan Area":"New Orleans-Metairie-Kenner, LA",
+    "Discuss Politics - Frequently":18.7,
+    " Discuss Politics - Infrequently":47.7,
+    "Other":33.6
+  },
+  {
+    "Metropolitan Area":"New York-Northern New Jersey-Long Island, NY-NJ-PA",
+    "Discuss Politics - Frequently":27.4,
+    " Discuss Politics - Infrequently":44.1,
+    "Other":28.5
+  },
+  {
+    "Metropolitan Area":"Oklahoma City, OK",
+    "Discuss Politics - Frequently":28.6,
+    " Discuss Politics - Infrequently":50.7,
+    "Other":20.7
+  },
+  {
+    "Metropolitan Area":"Orlando, FL",
+    "Discuss Politics - Frequently":29.1,
+    " Discuss Politics - Infrequently":39.1,
+    "Other":31.8
+  },
+  {
+    "Metropolitan Area":"Philadelphia-Camden-Wilmington, PA-NJ-DE",
+    "Discuss Politics - Frequently":26.6,
+    " Discuss Politics - Infrequently":54.1,
+    "Other":19.3
+  },
+  {
+    "Metropolitan Area":"Phoenix-Mesa-Scottsdale, AZ",
+    "Discuss Politics - Frequently":27.3,
+    " Discuss Politics - Infrequently":43.8,
+    "Other":28.9
+  },
+  {
+    "Metropolitan Area":"Pittsburgh, PA",
+    "Discuss Politics - Frequently":23.7,
+    " Discuss Politics - Infrequently":45.9,
+    "Other":30.4
+  },
+  {
+    "Metropolitan Area":"Portland-Vancouver-Beaverton, OR-WA",
+    "Discuss Politics - Frequently":36.1,
+    " Discuss Politics - Infrequently":45.8,
+    "Other":18.1
+  },
+  {
+    "Metropolitan Area":"Providence-Fall River-Warwick, RI-MA",
+    "Discuss Politics - Frequently":31.1,
+    " Discuss Politics - Infrequently":38.4,
+    "Other":30.5
+  },
+  {
+    "Metropolitan Area":"Raleigh-Cary, NC",
+    "Discuss Politics - Frequently":31.2,
+    " Discuss Politics - Infrequently":39.7,
+    "Other":29.1
+  },
+  {
+    "Metropolitan Area":"Richmond, VA",
+    "Discuss Politics - Frequently":25.7,
+    " Discuss Politics - Infrequently":48.7,
+    "Other":25.6
+  },
+  {
+    "Metropolitan Area":"Riverside-San Bernardino-Ontario, CA",
+    "Discuss Politics - Frequently":20.8,
+    " Discuss Politics - Infrequently":46.3,
+    "Other":32.9
+  },
+  {
+    "Metropolitan Area":"Rochester, NY",
+    "Discuss Politics - Frequently":32.5,
+    " Discuss Politics - Infrequently":42.6,
+    "Other":24.9
+  },
+  {
+    "Metropolitan Area":"Sacramento--Arden-Arcade-Roseville, CA",
+    "Discuss Politics - Frequently":31.4,
+    " Discuss Politics - Infrequently":38.6,
+    "Other":30
+  },
+  {
+    "Metropolitan Area":"Salt Lake City, UT",
+    "Discuss Politics - Frequently":34.8,
+    " Discuss Politics - Infrequently":46.5,
+    "Other":18.7
+  },
+  {
+    "Metropolitan Area":"San Antonio, TX",
+    "Discuss Politics - Frequently":22.5,
+    " Discuss Politics - Infrequently":43.8,
+    "Other":33.7
+  },
+  {
+    "Metropolitan Area":"San Diego-Carlsbad-San Marcos, CA",
+    "Discuss Politics - Frequently":35.4,
+    " Discuss Politics - Infrequently":47,
+    "Other":17.6
+  },
+  {
+    "Metropolitan Area":"San Francisco-Oakland-Fremont, CA",
+    "Discuss Politics - Frequently":35.9,
+    " Discuss Politics - Infrequently":40.5,
+    "Other":23.6
+  },
+  {
+    "Metropolitan Area":"San Jose-Sunnyvale-Santa Clara, CA",
+    "Discuss Politics - Frequently":32.9,
+    " Discuss Politics - Infrequently":49.6,
+    "Other":17.5
+  },
+  {
+    "Metropolitan Area":"Seattle-Tacoma-Bellevue, WA",
+    "Discuss Politics - Frequently":30.6,
+    " Discuss Politics - Infrequently":49.9,
+    "Other":19.5
+  },
+  {
+    "Metropolitan Area":"St. Louis, MO-IL",
+    "Discuss Politics - Frequently":27,
+    " Discuss Politics - Infrequently":46.4,
+    "Other":26.6
+  },
+  {
+    "Metropolitan Area":"Tampa-St. Petersburg-Clearwater, FL",
+    "Discuss Politics - Frequently":37.3,
+    " Discuss Politics - Infrequently":44.9,
+    "Other":17.8
+  },
+  {
+    "Metropolitan Area":"Virginia Beach-Norfolk-Newport News, VA-NC",
+    "Discuss Politics - Frequently":30.7,
+    " Discuss Politics - Infrequently":46.9,
+    "Other":22.4
+  },
+  {
+    "Metropolitan Area":"Washington-Arlington-Alexandria, DC-VA-MD-WV",
+    "Discuss Politics - Frequently":34.7,
+    " Discuss Politics - Infrequently":43.4,
+    "Other":21.9
+  }
+]
+}

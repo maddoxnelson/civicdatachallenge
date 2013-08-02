@@ -1,0 +1,259 @@
+{ "MSA_gender":
+[
+  {
+    "metropolitan area":"Atlanta-Sandy Springs-Marietta, GA",
+    "volunteering_by_gender":[24.2,28.3],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Austin-Round Rock, TX",
+    "volunteering_by_gender":[23.2,27.9],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Baltimore-Towson, MD",
+    "volunteering_by_gender":[26,30.6],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Birmingham-Hoover, AL",
+    "volunteering_by_gender":[23,32.2],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Boston-Cambridge-Quincy, MA-NH",
+    "volunteering_by_gender":[23.6,31.4],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Buffalo-Niagara Falls, NY",
+    "volunteering_by_gender":[24.4,27.4],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Charlotte-Gastonia-Concord, NC-SC",
+    "volunteering_by_gender":[25,31.9],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Chicago-Naperville-Joliet, IL-IN-WI",
+    "volunteering_by_gender":[22.2,28.9],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Cincinnati-Middletown, OH-KY-IN",
+    "volunteering_by_gender":[24.6,32.8],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Cleveland-Elyria-Mentor, OH",
+    "volunteering_by_gender":[23.4,28.7],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Columbus, OH",
+    "volunteering_by_gender":[23.1,32.5],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Dallas-Fort Worth-Arlington, TX",
+    "volunteering_by_gender":[24.1,31.7],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Denver-Aurora, CO",
+    "volunteering_by_gender":[25.3,35.5],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Detroit-Warren-Livonia, MI",
+    "volunteering_by_gender":[20.9,28.3],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Hartford-West Hartford-East Hartford, CT",
+    "volunteering_by_gender":[26.9,34.2],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Houston-Baytown-Sugar Land, TX",
+    "volunteering_by_gender":[20,26.2],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Indianapolis, IN",
+    "volunteering_by_gender":[22.8,31],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Jacksonville, FL",
+    "volunteering_by_gender":[26.6,30],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Kansas City, MO-KS",
+    "volunteering_by_gender":[25.5,33.9],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Las Vegas-Paradise, NV",
+    "volunteering_by_gender":[15.6,24.3],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Los Angeles-Long Beach-Santa Ana, CA",
+    "volunteering_by_gender":[18,25.4],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Louisville, KY-IN",
+    "volunteering_by_gender":[21.8,31.3],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Memphis, TN-MS-AR",
+    "volunteering_by_gender":[24,25.1],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Miami-Fort Lauderdale-Miami Beach, FL",
+    "volunteering_by_gender":[13.8,16.8],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Milwaukee-Waukesha-West Allis, WI",
+    "volunteering_by_gender":[28.6,38.6],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Minneapolis-St. Paul-Bloomington, MN-WI",
+    "volunteering_by_gender":[32.8,40.9],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Nashville-Davidson-Murfreesboro, TN",
+    "volunteering_by_gender":[26.4,37.2],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"New Orleans-Metairie-Kenner, LA",
+    "volunteering_by_gender":[18.7,28.2],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"New York-Northern New Jersey-Long Island, NY-NJ-PA",
+    "volunteering_by_gender":[15.3,19.8],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Oklahoma City, OK",
+    "volunteering_by_gender":[25.8,35.3],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Orlando, FL",
+    "volunteering_by_gender":[18.3,26.1],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Philadelphia-Camden-Wilmington, PA-NJ-DE",
+    "volunteering_by_gender":[21.3,28.2],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Phoenix-Mesa-Scottsdale, AZ",
+    "volunteering_by_gender":[23.1,27.8],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Pittsburgh, PA",
+    "volunteering_by_gender":[25.4,30.3],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Portland-Vancouver-Beaverton, OR-WA",
+    "volunteering_by_gender":[28.7,37.8],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Providence-Fall River-Warwick, RI-MA",
+    "volunteering_by_gender":[21.6,27.2],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Raleigh-Cary, NC",
+    "volunteering_by_gender":[19.1,25.1],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Richmond, VA",
+    "volunteering_by_gender":[20.8,24.7],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Riverside-San Bernardino-Ontario, CA",
+    "volunteering_by_gender":[15.1,21.6],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Rochester, NY",
+    "volunteering_by_gender":[32.2,36.9],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Sacramento--Arden-Arcade-Roseville, CA",
+    "volunteering_by_gender":[21.2,30.3],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Salt Lake City, UT",
+    "volunteering_by_gender":[29.7,36],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"San Antonio, TX",
+    "volunteering_by_gender":[19.3,28.6],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"San Diego-Carlsbad-San Marcos, CA",
+    "volunteering_by_gender":[24.4,31.5],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"San Francisco-Oakland-Fremont, CA",
+    "volunteering_by_gender":[26.3,34.6],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"San Jose-Sunnyvale-Santa Clara, CA",
+    "volunteering_by_gender":[25.4,34.1],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Seattle-Tacoma-Bellevue, WA",
+    "volunteering_by_gender":[28.6,39.1],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"St. Louis, MO-IL",
+    "volunteering_by_gender":[27.6,35],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Tampa-St. Petersburg-Clearwater, FL",
+    "volunteering_by_gender":[20.7,29.7],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Virginia Beach-Norfolk-Newport News, VA-NC",
+    "volunteering_by_gender":[21.6,29.9],
+    "labels_volunteering_by_gender":["male","female"]
+  },
+  {
+    "metropolitan area":"Washington-Arlington-Alexandria, DC-VA-MD-WV",
+    "volunteering_by_gender":[27.7,35],
+    "labels_volunteering_by_gender":["male","female"]
+  }
+]
+}
